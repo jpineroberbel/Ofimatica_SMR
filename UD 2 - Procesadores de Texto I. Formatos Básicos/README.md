@@ -5,9 +5,10 @@
 	- Barras de Herramientas
 	
 2. Estructura y apariencia del texto.
-3. Estilos.Fuentes, formatos de párrafo y de página.
-  - Encabezados y pies.
-  - Numeraciones y Viñetas.
+	- Estilos y Fuentes. 
+	- Formatos de párrafo.
+ 3. Numeraciones y Viñetas.
+  
   - Autotextos, hipervínculos, imágenes, organigramas, gráficos.
   - Utilización de tablas.
   - Utilización de formularios.
@@ -27,5 +28,5 @@
   - Tablas de contenido
   - Secciones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MTUwODEzXX0=
+eyJoaXN0b3J5IjpbOTM0MjI0OTYzLDgwODE1MDgxM119
 -->
