@@ -8,7 +8,9 @@
 	- Estilos y Fuentes. 
 	- Formatos de párrafo.
  3. Numeraciones y Viñetas.
-  
+ 4. Estilos predefinidos
+ 5. Columnas y tablas
+ 6. Imágenes y Formas
   - Autotextos, hipervínculos, imágenes, organigramas, gráficos.
   - Utilización de tablas.
   - Utilización de formularios.
@@ -28,5 +30,5 @@
   - Tablas de contenido
   - Secciones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MjI0OTYzLDgwODE1MDgxM119
+eyJoaXN0b3J5IjpbMTA4MDA0MjQyMSw4MDgxNTA4MTNdfQ==
 -->
