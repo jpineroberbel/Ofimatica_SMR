@@ -8,6 +8,9 @@ Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - 
  - UD 3 - Procesadores de Textos II Funciones Avanzadas
  - UD 4 - Procesadores de Textos III. Versiones de Software Libre
  - UD 5 - Retoque digital de imágenes
+
+> Jose A. Piñero Berbel
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODA1MzcyOSwxOTA0MDI1MjkyXX0=
+eyJoaXN0b3J5IjpbLTExMTE1MTk1MTksMTkwNDAyNTI5Ml19
 -->
