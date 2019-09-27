@@ -4,7 +4,8 @@
 	- Interfaz de Usuario
 	- Barras de Herramientas
 	
-2. Estilos.Fuentes, formatos de párrafo y de página.
+2. Estructura y apariencia del texto.
+3. Estilos.Fuentes, formatos de párrafo y de página.
   - Encabezados y pies.
   - Numeraciones y Viñetas.
   - Autotextos, hipervínculos, imágenes, organigramas, gráficos.
@@ -26,5 +27,5 @@
   - Tablas de contenido
   - Secciones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTgyNzMxN119
+eyJoaXN0b3J5IjpbODA4MTUwODEzXX0=
 -->
