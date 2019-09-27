@@ -1,4 +1,4 @@
-# Ofimatica_SMR
+# Aplicaciones Ofimáticas
 Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - IES Francisco Ayala
 
 ## Secuencia de Temas
@@ -9,5 +9,5 @@ Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - 
  - UD 4 - Procesadores de Textos III. Versiones de Software Libre
  - UD 5 - Retoque digital de imágenes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDAyNTI5Ml19
+eyJoaXN0b3J5IjpbMTM5ODA1MzcyOSwxOTA0MDI1MjkyXX0=
 -->
