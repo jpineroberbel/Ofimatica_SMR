@@ -1,4 +1,4 @@
-##Tema 2 - Procesadores de Textos
+#Tema 2 - Procesadores de Textos
 
 1. Personalización de las opciones de la aplicación y de la barra de herramientas.
   - Seguridad.
