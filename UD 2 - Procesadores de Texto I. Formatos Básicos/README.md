@@ -11,10 +11,10 @@
  4. Estilos predefinidos
  5. Columnas y tablas
  6. Imágenes y Formas
-	-  
+ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzM5NTA3MSwxMDIyOTg0MjM0LDgwOD
-E1MDgxM119
+eyJoaXN0b3J5IjpbLTEzNDE4MzE3ODgsMTAyMjk4NDIzNCw4MD
+gxNTA4MTNdfQ==
 -->
