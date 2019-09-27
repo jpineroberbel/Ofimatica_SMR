@@ -1,6 +1,6 @@
+## **Tema 3 - Procesadores de Textos II Funciones Avanzadas**
 
-
-
+1. Diagramas
   - Autotextos, hipervínculos, imágenes, organigramas, gráficos.
   - Utilización de tablas.
   - Utilización de formularios.
@@ -20,5 +20,5 @@
   - Tablas de contenido
   - Secciones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MzcxMDk5XX0=
+eyJoaXN0b3J5IjpbMTc0NzY2MTQ2OV19
 -->
