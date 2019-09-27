@@ -12,25 +12,30 @@
 	- Notas al pie
 	- Tablas de contenidos
 	- Índices
-	- B
+	- Bibliografía
+6. Combinar correspondencia
+7. Personalizar
+	- Estilos y temas propios
+	- Plantillas
+	- 
   - Autotextos, hipervínculos, imágenes, organigramas, gráficos.
   - Utilización de tablas.
   - Utilización de formularios.
   
-7. Creación y uso de plantillas.
+9. Creación y uso de plantillas.
 
-8. Importación y exportación de documentos.
+10. Importación y exportación de documentos.
 
-9. Diseño y creación de macros.
+11. Diseño y creación de macros.
   - Grabación de macros, asignación de macros a los distintos elementos.
   - Asociar una macro a un menú, botón de barra de herramientas, etc.
 
-10. Elaboración de distintos tipos de documentos (manuales, partes de incidencias, cartas personalizadas, listas de direcciones, sobres etiquetas, entre otros).
+12. Elaboración de distintos tipos de documentos (manuales, partes de incidencias, cartas personalizadas, listas de direcciones, sobres etiquetas, entre otros).
 
-11. Herramientas para documentos extensos.
+13. Herramientas para documentos extensos.
   - Mapa del documento.
   - Tablas de contenido
   - Secciones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzI0NjkzM119
+eyJoaXN0b3J5IjpbLTEwMjgwMzMwMzZdfQ==
 -->
