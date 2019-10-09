@@ -6,20 +6,23 @@
  4. Si desarrollaras un programa, ¿con qué tipo de licencia te gustaría registrarlo? Discútelo con tus compañeros.
  5. ¿Crees que se puede establecer un paralelismo entre software libre y Wikipedia? Si fuese así, ¿cuál sería la alternativa propietaria? ¿Qué opción te parece más fiable?
  6. 1.  ¿A qué tipo de aplicaciones nos referimos cuando hablamos de aplicaciones ofimáticas?
-2.  De las siguientes aplicaciones, señala cuáles son ofimáticas: Microsoft Access, Spotify, uTorrent, AVG, Microsoft Excel, OpenOffice.org Writer, Adobe Photoshop, Sony Vegas.
-3.  ¿Qué es una suite ofimática? Pon varios ejemplos.
-4.  ¿Qué es una licencia software?
-5.  ¿Cuáles son los principales tipos de licencias software?
-6.  ¿Cuál es la diferencia fundamental entre el software libre y el software propietario?
-7.  ¿Qué diferencia hay entre software libre y software de dominio público?
-8.  ¿Qué diferencia hay entre software  _shareware_  y software  _freeware_?
-9.  Uno de los siguientes términos no es sinónimo del resto, ¿cuál es? Software propietario, software comercial, software privativo, software no libre.
-10.  Averigua el tipo de licencia bajo la cuál se distribuyen los siguientes programas: OpenOffice.org, Microsoft Office, LibreOffice, WPS Office, Adobe Photoshop, Gimp, Sony Vegas.
-11.  ¿Qué es Copyleft? ¿Cómo explicarías que para garantizar el Copyleft de un software se utilicen las mismas medidas legales que garantizan el Copyright?
-12.  En la siguiente imagen se muestran cuatro condiciones o cláusulas Creative Commons. Visita la web de  [Creative Commons](https://es.creativecommons.org/), investiga y responde a las siguientes cuestiones:
+ 7.  De las siguientes aplicaciones, señala cuáles son ofimáticas: Microsoft Access, Spotify, uTorrent, AVG, Microsoft Excel, OpenOffice.org Writer, Adobe Photoshop, Sony Vegas.
+ 8.  ¿Qué es una suite ofimática? Pon varios ejemplos.
+ 9.  ¿Qué es una licencia software?
+ 10.  ¿Cuáles son los principales tipos de licencias software?
+ 11.  ¿Cuál es la diferencia fundamental entre el software libre y el software propietario?
+ 12.  ¿Qué diferencia hay entre software libre y software de dominio público?
+ 13.  ¿Qué diferencia hay entre software  _shareware_  y software  _freeware_?
+ 14.  Uno de los siguientes términos no es sinónimo del resto, ¿cuál es? Software propietario, software comercial, software privativo, software no libre.
+ 15.  Averigua el tipo de licencia bajo la cuál se distribuyen los siguientes programas: OpenOffice.org, Microsoft Office, LibreOffice, WPS Office, Adobe Photoshop, Gimp, Sony Vegas.
+ 16.  ¿Qué es Copyleft? ¿Cómo explicarías que para garantizar el Copyleft de un software se utilicen las mismas medidas legales que garantizan el Copyright?
+ 17.  En la siguiente imagen se muestran cuatro condiciones o cláusulas Creative Commons. Visita la web de  [Creative Commons](https://es.creativecommons.org/), investiga y responde a las siguientes cuestiones:
 ![](https://redstarwebdevelopment.com/wp-content/uploads/2015/03/creative-commons.jpg)
 ¿Qué es Creative Commons? ¿A qué obliga cada uno de los iconos mostrados en la imagen anterior? En la siguiente imagen se representan las escalas de protección del software desde la más amplia (dominio público) a la más restrictiva (copyright). En la columna central aparecen las posibles licencias Creative Commons. Explica qué representa cada una de ellas.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Creative_Commons_Semaforoa.svg/350px-Creative_Commons_Semaforoa.svg.png)
+
+ 18. ¿Cuáles son las características de tu equipo? ¿Está preparado para instalar Office 365? Accede al Panel de control, grupo Sistema, y rellena la siguiente tabla, (suponemos que estamos utilizando Windows como SO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MDQ5OTQyLC0xOTMwMDE2NzI2XX0=
+eyJoaXN0b3J5IjpbLTg5NTk5NjcyMiwtMTkzMDAxNjcyNl19
 -->
