@@ -22,7 +22,8 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Creative_Commons_Semaforoa.svg/350px-Creative_Commons_Semaforoa.svg.png)
 
  18. ¿Cuáles son las características de tu equipo? ¿Está preparado para instalar Office 365? Accede al Panel de control, grupo Sistema, y rellena la siguiente tabla, (suponemos que estamos utilizando Windows como SO)
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTk5NjcyMiwtMTkzMDAxNjcyNl19
+eyJoaXN0b3J5IjpbMzY4OTAzMTI0LC0xOTMwMDE2NzI2XX0=
 -->
