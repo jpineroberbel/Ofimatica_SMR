@@ -23,11 +23,19 @@
 
  18. ¿Cuáles son las características de tu equipo? ¿Está preparado para instalar Office 365? Accede al Panel de control, grupo Sistema, y rellena la siguiente tabla, (suponemos que estamos utilizando Windows como SO)
  
- 
+ ||||||||
+|--- |--- |--- |--- |--- |--- |--- |
+|Suite|Office 2010|Office 2013|Office 2016|Office 365|Open Office|Libre Office|
+|Versión Windows|||||||
+|Procesador|||||||
+|Memoria RAM|||||||
+|Espacio en disco|||||||
+|Resolución de pantalla|||||||
 
  19.  Busca en librerías de Internet tres libros que enseñen a manejar las suites Microsoft Office, OpenOffice y LibreOffice. Analiza su precio y número de páginas. ¿Sobre qué suite encuentras más variedad?
  20. Realiza el apartado "Comprueba tu aprendizaje" en la página 25 del libro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwOTA1MzAsLTE5MzAwMTY3MjZdfQ==
+eyJoaXN0b3J5IjpbLTcyMzI1NTE2Niw1NDA5MDUzMCwtMTkzMD
+AxNjcyNl19
 -->
