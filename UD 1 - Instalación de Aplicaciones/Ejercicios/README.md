@@ -17,7 +17,9 @@
 10.  Averigua el tipo de licencia bajo la cuál se distribuyen los siguientes programas: OpenOffice.org, Microsoft Office, LibreOffice, WPS Office, Adobe Photoshop, Gimp, Sony Vegas.
 11.  ¿Qué es Copyleft? ¿Cómo explicarías que para garantizar el Copyleft de un software se utilicen las mismas medidas legales que garantizan el Copyright?
 12.  En la siguiente imagen se muestran cuatro condiciones o cláusulas Creative Commons. Visita la web de  [Creative Commons](https://es.creativecommons.org/), investiga y responde a las siguientes cuestiones:
+![](https://redstarwebdevelopment.com/wp-content/uploads/2015/03/creative-commons.jpg)
+¿Qué es Creative Commons? ¿A qué obliga cada uno de los iconos mostrados en la imagen anterior? En la siguiente imagen se representan las escalas de protección del software desde la más amplia (dominio público) a la más restrictiva (copyright). En la columna central aparecen las posibles licencias Creative Commons. Explica qué representa cada una de ellas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAwMTY3MjZdfQ==
+eyJoaXN0b3J5IjpbODI3MDQ5OTQyLC0xOTMwMDE2NzI2XX0=
 -->
