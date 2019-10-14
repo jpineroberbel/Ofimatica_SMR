@@ -25,8 +25,8 @@
 
 **Recursos**
 
--   [Manual de Microsoft Word](Manual de Microsoft Word 2016.pdf)
+-   [Manual de Microsoft Word](Manual%20de%20Microsoft%20Word%202016.pdf)
 
  
 
-[Ejercicios](./Ejercicios)
+[Ejercicios  ](./Ejercicios)
