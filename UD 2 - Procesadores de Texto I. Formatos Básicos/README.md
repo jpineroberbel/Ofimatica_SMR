@@ -1,3 +1,7 @@
+---
+title: ''
+---
+
 **Tema 2 - Procesadores de Textos I Formatos Básicos**
 ------------------------------------------------------
 
@@ -21,9 +25,10 @@
 
 6.  Imágenes y Formas
 
- 
+  
+==
 
-\---
+ 
 
 **Recursos**
 
