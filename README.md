@@ -7,10 +7,9 @@ Francisco Ayala
 Secuencia de Temas
 ------------------
 
--   [UD 1 - Instalación de Aplicaciones](./UD 1 - Instalación de Aplicaciones)
+-   UD 1 - Instalación de Aplicaciones
 
--   [UD 2 - Procesadores de Textos I Formatos Básicos](./UD 2 - Procesadores de
-    Texto I. Formatos Básicos)
+-   UD 2 - Procesadores de Textos I Formatos Básicos
 
 -   UD 3 - Procesadores de Textos II Funciones Avanzadas
 
