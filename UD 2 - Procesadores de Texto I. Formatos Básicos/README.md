@@ -13,8 +13,8 @@
  6. Imágenes y Formas
  
 ```
-[here]([Manual de Microsoft Word 2016.pdf]
+[Manual Microsoft Word](Manual de Microsoft Word 2016.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUzODU4MjQsLTEzNDE4MzE3ODgsMT
-AyMjk4NDIzNCw4MDgxNTA4MTNdfQ==
+eyJoaXN0b3J5IjpbMTg3MDI1NDgzNSwtMTM0MTgzMTc4OCwxMD
+IyOTg0MjM0LDgwODE1MDgxM119
 -->
