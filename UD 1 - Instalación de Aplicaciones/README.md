@@ -1,5 +1,6 @@
 ## **Tema 1 - Instalación de Aplicaciones Ofimáticas**
 
+
 1. Tipos de aplicaciones ofimáticas.
 	- Paquetes informáticos y suites
 	- Paquete ofimático (suite ofimática)
@@ -15,3 +16,13 @@
 
 5. Agilidad con el teclado: mecanografía
 
+***
+
+**Recursos**
+
+-   [Manual de Microsoft Word](./Materiales/UD%201%20-Instalacion%20de%20Aplicaciones%20ofimaticas%20(2).pdf)
+
+ 
+
+**Ejercicios**
+-   [Acceso a carpeta con ejercicios  ](./ejercicios)
