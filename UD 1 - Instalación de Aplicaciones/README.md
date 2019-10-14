@@ -20,7 +20,7 @@
 
 **Recursos**
 
--   [Manual de Microsoft Word](./Materiales/UD%201%20-Instalacion%20de%20Aplicaciones%20ofimaticas%20(2).pdf)
+-   [Apuntes del tema](./Materiales/UD%201%20-%20Instalacion%20de%20Aplicaciones%20ofimaticas%20(2).pdf)
 
  
 
