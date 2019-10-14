@@ -21,7 +21,7 @@
 
 6.  Imágenes y Formas
 
- 
+\___\_
 
 **Recursos**
 
