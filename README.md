@@ -1,16 +1,21 @@
-# Aplicaciones Ofimáticas
-Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - IES Francisco Ayala
+Aplicaciones Ofimáticas
+=======================
 
-## Secuencia de Temas
+Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - IES
+Francisco Ayala
 
- - UD 1 - Instalación de Aplicaciones
- - UD 2 - Procesadores de Textos I Formatos Básicos
- - UD 3 - Procesadores de Textos II Funciones Avanzadas
- - UD 4 - Procesadores de Textos III. Versiones de Software Libre
- - UD 5 - Retoque digital de imágenes
+Secuencia de Temas
+------------------
 
-> Jose A. Piñero Berbel
+-   [UD 1 - Instalación de Aplicaciones](./UD 1 - Instalación de Aplicaciones)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE1MTk1MTksMTkwNDAyNTI5Ml19
--->
+-   [UD 2 - Procesadores de Textos I Formatos Básicos](./UD 2 - Procesadores de
+    Texto I. Formatos Básicos)
+
+-   UD 3 - Procesadores de Textos II Funciones Avanzadas
+
+-   UD 4 - Procesadores de Textos III. Versiones de Software Libre
+
+-   UD 5 - Retoque digital de imágenes
+
+>   Jose A. Piñero Berbel
