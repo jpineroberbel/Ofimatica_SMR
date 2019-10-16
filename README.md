@@ -1,4 +1,4 @@
-Aplicaciones Ofimáticas
+﻿Aplicaciones Ofimáticas
 =======================
 
 Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - IES
@@ -13,8 +13,20 @@ Secuencia de Temas
 
 -   UD 3 - Procesadores de Textos II Funciones Avanzadas
 
--   UD 4 - Procesadores de Textos III. Versiones de Software Libre
+-   UD 4 - Imagen Digital
 
--   UD 5 - Retoque digital de imágenes
+-   UD 5 - Hojas de Cálculo
+
+-   UD 6 - Presentaciones Multimedia
+
+-   UD 7 - Video Digital
+
+-   UD 8 - Bases de Datos
+
+-   UD 9 - Correo y Agenda Electrónica
+
+
+
+
 
 >   Jose A. Piñero Berbel
