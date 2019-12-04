@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Abril Fatface
+Author: TypeTogether
+Url: http://www.fontsquirrel.com/fonts/abril-fatface
+
+Font: Bebas
+Author: Flat-it
+Url: http://www.fontsquirrel.com/fonts/bebas
+
+Font: Open Sans
+Author: Ascender Fonts
+Url: http://www.fontsquirrel.com/fonts/open-sans
