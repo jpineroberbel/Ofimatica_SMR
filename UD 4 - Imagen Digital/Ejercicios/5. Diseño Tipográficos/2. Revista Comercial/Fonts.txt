@@ -1,0 +1,5 @@
+Fonts used in this design:
+
+Font: Fira Sans Condensed
+Author: Mozilla
+Url: http://www.fontsquirrel.com/fonts/fira-sans-condensed
