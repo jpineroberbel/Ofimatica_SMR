@@ -1,3 +1,5 @@
+Fonts Used:
+--------------------------------------------------------------------------------------------------
 
 https://fonts.google.com/specimen/Qwigley
 https://fonts.google.com/specimen/Oswald
