@@ -72,9 +72,19 @@ Through this Photoshop tutorial, you can learn how to create a chilling, decay e
 
 [Youtube tutorial](https://www.youtube.com/watch?v=ryS5HFOB8sA)
 
-### 11. 
+### 11. Disintegrate into ASH Effect
 
-[Youtube tutorial][https://www.youtube.com/watch?v=zrx_Mz9v6-I](https://www.youtube.com/watch?v=zrx_Mz9v6-I)
+[Youtube tutorial](https://www.youtube.com/watch?v=zrx_Mz9v6-I)
+
+### 12. How to Create Realistic Cracked Skin
+[Youtube tutorial](https://www.youtube.com/watch?v=5Y3aIHxxkok)
+
+### 13. Powerful Ink, Smoke Portrait
+[Youtube tutorial](https://www.youtube.com/watch?v=NSJHup4R9sE)
+
+
+### 14.  Powerful Ink, Smoke Portrait
+[Youtube tutorial](https://www.youtube.com/watch?v=NSJHup4R9sE)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjY2ODAxMSwtMTIwODM5NzkxOV19
+eyJoaXN0b3J5IjpbMTQwMjQ3ODI0OCwtMTIwODM5NzkxOV19
 -->
