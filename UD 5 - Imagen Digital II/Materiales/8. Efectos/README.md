@@ -68,7 +68,13 @@ Through this Photoshop tutorial, you can learn how to create a chilling, decay e
 
 [Youtube tutorial](https://www.youtube.com/watch?v=Vfz0hDdYl0A)
 
+### 10.  Animated GIF Smoke Effect
 
+[Youtube tutorial](https://www.youtube.com/watch?v=ryS5HFOB8sA)
+
+### 11. 
+
+[Youtube tutorial][https://www.youtube.com/watch?v=zrx_Mz9v6-I](https://www.youtube.com/watch?v=zrx_Mz9v6-I)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgzOTc5MTldfQ==
+eyJoaXN0b3J5IjpbLTkyMjY2ODAxMSwtMTIwODM5NzkxOV19
 -->
