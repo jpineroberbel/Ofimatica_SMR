@@ -1,6 +1,6 @@
 ﻿ **Efectos**
 
-1. ### Dispersion Effect — Photoshop Tutorial
+### 1. Dispersion Effect — Photoshop Tutorial
 
 ![](https://hackernoon.com/hn-images/0*9HN4Sc4NKN4NitZS.png)
 
@@ -8,7 +8,7 @@ You will learn how to create a dispersion effect and disintegration effect throu
 
 [Youtube tutorial](https://www.youtube.com/watch?v=lhdxVVLCIjY)
 
-2. ### Electricity/Lightning Effect in Photoshop
+### 2.  Electricity/Lightning Effect in Photoshop
 
 ![](https://hackernoon.com/hn-images/0*JMhXDQ84EbdUmrIw.png)
 
@@ -18,7 +18,7 @@ This video tutorial is also very engaging and fun, which makes the learning proc
 
 [Youtube tutorial](https://www.youtube.com/watch?v=kSFSDvKJISQ)
 
-3. ### Light Painting Text Effect
+### 3.  Light Painting Text Effect
 
 ![](https://hackernoon.com/hn-images/0*0dgQXR16RAzA4mrJ.png)
 
@@ -26,7 +26,7 @@ In this tutorial, you will learn how to optimize your text or logo design with l
 
 [Youtube tutorial](https://www.youtube.com/watch?v=pjKq2p2Rj5o)
 
-4. ### 10 Steps to Get Started with 3D Effects in Photoshop
+### 4.  10 Steps to Get Started with 3D Effects in Photoshop
 
 ![](https://hackernoon.com/hn-images/0*grRmE5YObSEwJl1Q.png)
 
@@ -36,7 +36,7 @@ In this tutorial, you will learn how to create original 3D objects or convert ex
 
 [Youtube tutorial](https://www.youtube.com/watch?v=u5crxEaZHkY)
 
-5. ### How to Create Cartoon Effect in Photoshop — Vector Art (Easy Trick)
+### 5.  How to Create Cartoon Effect in Photoshop — Vector Art (Easy Trick)
 
 ![](https://hackernoon.com/hn-images/0*dhcq-qgJo8Xgsu9Y.png)
 
@@ -44,7 +44,7 @@ Through this PS tutorial, you will easily learn how to use pen tools in Photosho
 
 [Youtube tutorial](https://www.youtube.com/watch?v=VuQhhg_y22E)
 
-6. ### Frost Effect in Photoshop
+### 6  Frost Effect in Photoshop
 
 ![](https://hackernoon.com/hn-images/0*iCU6bKib6KMBNpXf.png)
 
@@ -60,7 +60,7 @@ Transparent cloth or text effects are widely used in web/app UI design. This tut
 
 [Youtube tutorial](https://www.youtube.com/watch?v=EvazECoMvrM)
 
-8. ### Chilling Decay Effect 
+### 8.  Chilling Decay Effect 
 
 ![](https://hackernoon.com/hn-images/0*XJuO2-7EeDIqIegy.png)
 
@@ -70,5 +70,5 @@ Through this Photoshop tutorial, you can learn how to create a chilling, decay e
 
 9.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ4MzM3OF19
+eyJoaXN0b3J5IjpbLTE2NzE0OTg3NzRdfQ==
 -->
