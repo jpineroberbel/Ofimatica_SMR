@@ -1,4 +1,4 @@
-﻿ **Efectos**
+# Efectos
 
 ### 1. Dispersion Effect — Photoshop Tutorial
 
@@ -70,5 +70,5 @@ Through this Photoshop tutorial, you can learn how to create a chilling, decay e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA2NTc1MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDgzOTc5MTldfQ==
 -->
