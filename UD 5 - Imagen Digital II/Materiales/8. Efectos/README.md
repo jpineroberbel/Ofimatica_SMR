@@ -83,8 +83,8 @@ Through this Photoshop tutorial, you can learn how to create a chilling, decay e
 [Youtube tutorial](https://www.youtube.com/watch?v=NSJHup4R9sE)
 
 
-### 14.  Powerful Ink, Smoke Portrait
-[Youtube tutorial](https://www.youtube.com/watch?v=NSJHup4R9sE)
+### 14. Smoke Text Effect
+[Youtube tutorial](https://www.youtube.com/watch?v=4hrNiCWSrLo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjQ3ODI0OCwtMTIwODM5NzkxOV19
+eyJoaXN0b3J5IjpbNTk1MDI1MDUzLC0xMjA4Mzk3OTE5XX0=
 -->
