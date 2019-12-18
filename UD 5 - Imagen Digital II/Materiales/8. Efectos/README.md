@@ -26,7 +26,7 @@ In this tutorial, you will learn how to optimize your text or logo design with l
 
 [Youtube tutorial](https://www.youtube.com/watch?v=pjKq2p2Rj5o)
 
-### 10 Steps to Get Started with 3D Effects in Photoshop
+4. ### 10 Steps to Get Started with 3D Effects in Photoshop
 
 ![](https://hackernoon.com/hn-images/0*grRmE5YObSEwJl1Q.png)
 
@@ -35,6 +35,24 @@ Good 3D effects can enhance a text/website/app/photo design.
 In this tutorial, you will learn how to create original 3D objects or convert existing graphics to 3D objects in 10 steps using Photoshop. It is a really great technique to improve your website/app/photo design dramatically.
 
 [Youtube tutorial](https://www.youtube.com/watch?v=u5crxEaZHkY)
+
+5. ### How to Create Cartoon Effect in Photoshop — Vector Art (Easy Trick)
+
+![](https://hackernoon.com/hn-images/0*dhcq-qgJo8Xgsu9Y.png)
+
+Through this PS tutorial, you will easily learn how to use pen tools in Photoshop to create cartoon effects.
+
+[Youtube tutorial](https://www.youtube.com/watch?v=VuQhhg_y22E)
+
+6. ### Frost Effect in Photoshop
+
+![](https://hackernoon.com/hn-images/0*iCU6bKib6KMBNpXf.png)
+
+Watch this tutorial and learn how to create a Frost effect for designing a gorgeous photo/UI design with a sci-fi design style. With this technique, you can easily “freeze” any object in your photo/design.
+
+[Youtube tutorial](https://www.youtube.com/watch?v=ImjX7O6PN5A)
+
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ5NTI2ODldfQ==
+eyJoaXN0b3J5IjpbMTM4MjQ4MzA0NF19
 -->
