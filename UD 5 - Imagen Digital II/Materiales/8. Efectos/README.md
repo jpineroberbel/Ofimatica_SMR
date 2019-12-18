@@ -52,7 +52,7 @@ Watch this tutorial and learn how to create a Frost effect for designing a gorge
 
 [Youtube tutorial](https://www.youtube.com/watch?v=ImjX7O6PN5A)
 
-7. ### Transparent Clothes Effect 
+### 7. Transparent Clothes Effect 
 
 ![](https://hackernoon.com/hn-images/0*ppK-D7kdVmel_LE0.png)
 
@@ -68,7 +68,7 @@ Through this Photoshop tutorial, you can learn how to create a chilling, decay e
 
 [Youtube tutorial](https://www.youtube.com/watch?v=Vfz0hDdYl0A)
 
-9.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE0OTg3NzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzA2NTc1MzFdfQ==
 -->
