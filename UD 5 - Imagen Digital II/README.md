@@ -4,3 +4,4 @@
 2. Composición avanzada
 3. Dibujando con pinceles
 4. Efectos
+4.1 Acuarela: http://pstutoriales.com/efecto-acuarela-photoshop/
