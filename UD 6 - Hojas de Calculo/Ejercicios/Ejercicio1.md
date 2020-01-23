@@ -8,7 +8,7 @@ Practica el diseño de tablas en Excel mediante este ejercicio.
 
 Realiza una Hoja de Cálculo como la que se muestra a continuación para la introducción de las notas de 10 alumnos para cada uno de los 5 módulos de un curso de Ofimática Avanzada.
 
-[![  ](https://pruebas.teformas.com/wp-content/uploads/2012/10/ej1.jpg)]
+![  ](https://pruebas.teformas.com/wp-content/uploads/2012/10/ej1.jpg)
 
 ### Características de la Hoja de Cálculo:
 
@@ -18,5 +18,5 @@ Realiza una Hoja de Cálculo como la que se muestra a continuación para la intr
 
 Rellena la tabla con valores inventados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NTY2MDU2XX0=
+eyJoaXN0b3J5IjpbMjgyODk2ODMwXX0=
 -->
