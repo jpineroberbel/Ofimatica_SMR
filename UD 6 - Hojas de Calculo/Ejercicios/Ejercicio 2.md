@@ -9,9 +9,9 @@ Realiza una Hoja de Cálculo similar a la de la figura para la introducción de 
 ### Características de la Hoja de Cálculo:
 
 -   Inserta un **comentario** al título para indicar la fecha de inicio y fin de semana.
--   Cuida el diseño: formato de celdas y atributos del texto.
+-   **Cuida el diseño**: formato de celdas y atributos del texto.
 
-### [Formato condicional](http://pruebas.teformas.com/cursos-de-informatica/curso-excel-ejercicios-practicos/leccion/formato-condicional-excel/):
+### Formato condicional:
 
 -   Si la temperatura introducida es menor a 0 grados o superior a 30 debe cambiarse el formato del texto.
 -   Si la cantidad de lluvias es 0 o superior a 100 l/m3 debe de indicarse cambiando el formato del texto.
@@ -19,5 +19,5 @@ Realiza una Hoja de Cálculo similar a la de la figura para la introducción de 
 
 Rellena la tabla con valores inventados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mjk0OTY5MF19
+eyJoaXN0b3J5IjpbLTE0NTExMTU2NDBdfQ==
 -->
