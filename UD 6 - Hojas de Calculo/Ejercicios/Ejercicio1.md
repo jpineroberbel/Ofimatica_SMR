@@ -12,11 +12,11 @@ Realiza una Hoja de Cálculo como la que se muestra a continuación para la intr
 
 ### Características de la Hoja de Cálculo:
 
--   [Cuida el diseño: formato de celdas y atributos del texto.
--   [Formato condicional]: Si la nota introducida es menor a 5 debe cambiarse el color del texto.
--   La Hoja de Cálculo debe estar [protegida](http://pruebas.teformas.com/cursos-de-informatica/curso-excel-ejercicios-practicos/leccion/proteccion-de-celdas-en-excel/) exceptuando las celdas de introducción de datos (notas de los alumnos).
+-   **Cuida el diseño**: formato de celdas y atributos del texto.
+-   **Formato condicional**: Si la nota introducida es menor a 5 debe cambiarse el color del texto.
+-   La Hoja de Cálculo debe estar **protegida** exceptuando las celdas de introducción de datos (notas de los alumnos).
 
 Rellena la tabla con valores inventados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM2NjAyNzBdfQ==
+eyJoaXN0b3J5IjpbLTU0MDA5MDc1OF19
 -->
