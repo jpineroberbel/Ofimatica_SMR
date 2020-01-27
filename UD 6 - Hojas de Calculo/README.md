@@ -1,4 +1,4 @@
-**Tema 6 - Hojas de Cálculo**
+﻿## **Tema 65 - Hojas de Cálculo**
 
 ### Ejercicio 4 Excel. Objetivo: Realizar cálculos sencillos
 
@@ -28,6 +28,6 @@ Abre el programa Microsoft Excel y realiza dos tablas como la que se muestra en 
     -   El Precio de Venta a partir del Incremento introducido por el usuario.
     -   El Total de Ventas a partir del Precio de Venta y la Cantidad de productos vendidos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI3MzI5NjEsLTYxMDU3MzkyMSwtMT
-kzNjQzOTIxMV19
+eyJoaXN0b3J5IjpbNzg4MDE3NDA5LC0xMDkyNzMyOTYxLC02MT
+A1NzM5MjEsLTE5MzY0MzkyMTFdfQ==
 -->
