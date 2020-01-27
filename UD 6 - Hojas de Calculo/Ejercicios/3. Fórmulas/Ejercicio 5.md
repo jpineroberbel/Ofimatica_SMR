@@ -1,4 +1,4 @@
-### Ejercicio 4 Excel. Objetivo: Realizar cálculos sencillos
+### Ejercicio 5 Excel. Objetivo: Realizar cálculos sencillos
 
 PRACTICA CÁLCULOS SENCILLOS
 
@@ -25,5 +25,5 @@ Abre el programa Microsoft Excel y realiza dos tablas como la que se muestra en 
     -   El Precio de Venta a partir del Incremento introducido por el usuario.
     -   El Total de Ventas a partir del Precio de Venta y la Cantidad de productos vendidos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzM2OTgzMV19
+eyJoaXN0b3J5IjpbLTc3MjMxMDM0LDE5MzczNjk4MzFdfQ==
 -->
