@@ -1,4 +1,4 @@
-### Ejercicio 7 Excel. Objetivo: Utilizar referencias absolutas
+### Ejercicio 8 Excel. Objetivo: Utilizar referencias absolutas
 
 Mediante este ejercicio podrás practicar el uso de referencias absolutas en las fórmulas
 
@@ -22,5 +22,5 @@ Abre el programa Microsoft Excel y realiza una tabla como la que se muestra en l
     -   El reparto de dicha subvención en concepto de administración, instalaciones, material y profesorado teniendo en cuenta el porcentaje proporcionado.
     -   Los totales para todas las columnas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk5ODA1MjRdfQ==
+eyJoaXN0b3J5IjpbLTQ3ODE0NDk3M119
 -->
