@@ -1,4 +1,4 @@
-### Ejercicio 5 Excel. Objetivo: Realizar cálculos sencillos
+### Ejercicio 6 Excel. Objetivo: Realizar cálculos sencillos
 
 Mediante este ejercicio practicaremos las fórmulas en Excel
 
@@ -18,5 +18,5 @@ Copia en una hoja de cálculo de Excel una tabla con la estructura y datos sigui
 -   Cantidad descontada (Subtotal x Descuento)
 -   TOTAL A PAGAR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ3MjgzNjBdfQ==
+eyJoaXN0b3J5IjpbMzc3NTExNjQxXX0=
 -->
