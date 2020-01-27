@@ -1,4 +1,4 @@
-### Ejercicio 3 Excel. Objetivo: Diseño de tablas
+### Ejercicio 4 Excel. Objetivo: Diseño de tablas
 
 Mediante este ejercicio podrás practicar el  **diseño de tablas en Excel**
 
@@ -19,5 +19,5 @@ Características de la Hoja de Cálculo:
 -   Calcula el total de ventas por mes y por producto mediante la opción **“Autosuma”**
 -   La Hoja de Cálculo debe estar **protegida** exceptuando las celdas de introducción de datos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODY4MzQ5XX0=
+eyJoaXN0b3J5IjpbLTEzMzU3NjQ2MTAsMTE3ODY4MzQ5XX0=
 -->
