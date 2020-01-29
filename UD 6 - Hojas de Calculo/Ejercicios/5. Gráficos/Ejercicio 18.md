@@ -1,20 +1,16 @@
-### Ejercicio 16 Excel. Objetivo: Trabajar con varias hojas
+### Ejercicio 18### Excel. Objetivo: Gráficos
 
+Este ejercicio te permitirá practicar el uso de gráficos en Excel
 
-Crea tres hojas de cálculo nuevas con los nombres Ganancias, Gastos y Beneficios.  
-Agrupa las tres hojas y diseña las tablas de la siguiente manera:
+Abrir el programa Microsoft Excel y realizar una tabla como la que se muestra en la figura
 
-![Excel. Objetivo: Trabajar con varias hojas ](https://teformas.com/wp-content/uploads/2012/10/ej11a.jpg)
+A partir de esta hoja de cálculo realizar unos **gráficos** similares a los siguientes:
 
-Desagrupa las hojas y copia los datos pertenecientes a los cuatro trimestres para las ganancias y los gastos, y calcula los totales por trimestre y por tienda para estas dos hojas.
-Ganancias:
-![Excel. Objetivo: Trabajar con varias hojas ](https://teformas.com/wp-content/uploads/2012/10/ej11b.jpg)
+![Excel. Objetivo: Gráficos ](https://teformas.com/wp-content/uploads/2012/10/ej13a.jpg)
+A partir de esta hoja de cálculo, realizar un **gráfico** similar al siguiente:
 
-Gastos:
-
-![Excel. Objetivo: Trabajar con varias hojas ](https://teformas.com/wp-content/uploads/2012/10/ej11c.jpg)
-
-Calcula los beneficios en la tercera hoja (=Ganancias1!B2 – Gastos2!B2)
+![Excel. Objetivo: Gráficos ](https://teformas.com/wp-content/uploads/2012/10/ej13b.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTk3MzU3NCwtNjk0NDAyNTgxXX0=
+eyJoaXN0b3J5IjpbLTE2NDIyNzg2NDUsMTk5MTk3MzU3NCwtNj
+k0NDAyNTgxXX0=
 -->
