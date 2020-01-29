@@ -6,7 +6,7 @@ Copia la siguiente hoja de cálculo:
 
 ![ Excel. Objetivo: Gráficos](https://teformas.com/wp-content/uploads/2012/10/ej14-300x146.jpg)
 -   Calcula los totales para la columna TOTAL VENTAS.
--   Crea los siguientes [gráficos](http://pruebas.teformas.com/cursos-de-informatica/curso-excel-ejercicios-practicos/leccion/graficos-en-excel/):
+-   Crea los siguientes **gráficos**:
     -   Realiza un gráfico de barras correspondiente al total de ventas de los diferentes meses.
     -   Crea un gráfico de barras apiladas de los meses de Enero, Febrero y Marzo.
     -   Inserta un gráfico de barras apiladas de los meses de Abril, Mayo y Junio.
@@ -15,5 +15,5 @@ Copia la siguiente hoja de cálculo:
 -   Inserta títulos y leyendas en todos los gráficos.
 -   Modifica los datos de la hoja y observa el efecto producido en los gráficos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTQyMjU0OV19
+eyJoaXN0b3J5IjpbMTE3NTM0NTk5OV19
 -->
