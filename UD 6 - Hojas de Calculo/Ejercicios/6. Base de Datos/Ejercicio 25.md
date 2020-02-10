@@ -36,10 +36,10 @@ Mediante este ejercicio podrás practicar con las herramientas para trabajar con
 
 
 -  Construye una tabla dinámica que muestre la suma de cuotas por afición y sexo.
-    -   Haz una tabla dinámica que muestre la media de edad por Cuota y Sexo.
+-   Haz una tabla dinámica que muestre la media de edad por Cuota y Sexo.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDMyMDg1NV19
+eyJoaXN0b3J5IjpbLTE0NTE0OTg5MjEsMTEwMDMyMDg1NV19
 -->
