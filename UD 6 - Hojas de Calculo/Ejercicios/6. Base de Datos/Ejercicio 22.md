@@ -25,21 +25,20 @@ Mediante este ejercicio podrás practicar con las herramientas para trabajar con
         -   Aficionados al Baloncesto que paguen una cuota superior a 24€.
         -   Hombres aficionados al fútbol que paguen una cuota entre 30€ y 42€.
 
--   [Cálculo de subtotales](http://pruebas.teformas.com/cursos-de-informatica/curso-excel-ejercicios-practicos/leccion/bases-de-datos-excel/).
+-   Cálculo de subtotales
 
--   -   Calcula el total de cuotas por sexo.
+-    Calcula el total de cuotas por sexo.
     -   Calcula la media de edad por sexo.
     -   Calcula cuantos registros hay de cada afición. Utiliza la función Cuenta sobre este campo.
     -   Calcula el total de cuota por afición.
     -   Calcula la media de cuota por afición.
 
--   [Tablas dinámicas](http://pruebas.teformas.com/cursos-de-informatica/curso-excel-ejercicios-practicos/leccion/bases-de-datos-excel/).
 
--   -   Construye una tabla dinámica que muestre la suma de cuotas por afición y sexo.
+-  Construye una tabla dinámica que muestre la suma de cuotas por afición y sexo.
     -   Haz una tabla dinámica que muestre la media de edad por Cuota y Sexo.
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTgwMzk5MF19
+eyJoaXN0b3J5IjpbLTIyNDY5OTg4M119
 -->
