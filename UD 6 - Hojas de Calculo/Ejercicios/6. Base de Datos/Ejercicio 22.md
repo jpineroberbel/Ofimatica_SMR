@@ -1,8 +1,8 @@
 ### Ejercicio 17 Excel. Bases de datos: ordenación, cálculo de subtotales, filtrado y tablas dinámicas
 
-Mediante este ejercicio podrás practicar con las herramientas para trabajar con listas o bases de datos en Excel
+Mediante este ejercicio podrás practicar con las herramientas para trabajar con listas o bases de datos en Excel. Bas
 
-![](http://pruebas.teformas.com/wp-content/uploads/2012/10/bases.jpg)
+
 
 -   Ordena la base de datos por los siguientes campos:
         -   Por Edad.
@@ -40,5 +40,5 @@ Mediante este ejercicio podrás practicar con las herramientas para trabajar con
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDY5OTg4M119
+eyJoaXN0b3J5IjpbLTE2NjAzOTcyNzAsLTIyNDY5OTg4M119
 -->
