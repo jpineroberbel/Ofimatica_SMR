@@ -1,6 +1,6 @@
 ### Ejercicio 17 Excel. Bases de datos: ordenación, cálculo de subtotales, filtrado y tablas dinámicas
 
-Mediante este ejercicio podrás practicar con las herramientas para trabajar con listas o bases de datos en Excel. Bas
+Mediante este ejercicio podrás practicar con las herramientas para trabajar con listas o bases de datos en Excel. Basándote en el archivo 
 
 
 
@@ -40,5 +40,5 @@ Mediante este ejercicio podrás practicar con las herramientas para trabajar con
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAzOTcyNzAsLTIyNDY5OTg4M119
+eyJoaXN0b3J5IjpbLTQ1MzU4NDc5NywtMjI0Njk5ODgzXX0=
 -->
