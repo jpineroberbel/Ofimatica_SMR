@@ -28,7 +28,7 @@ Mediante este ejercicio podrás practicar con las herramientas para trabajar con
 
 -   Cálculo de subtotales
 
--    Calcula el total de cuotas por sexo.
+	-    Calcula el total de cuotas por sexo.
     -   Calcula la media de edad por sexo.
     -   Calcula cuantos registros hay de cada afición. Utiliza la función Cuenta sobre este campo.
     -   Calcula el total de cuota por afición.
@@ -41,5 +41,6 @@ Mediante este ejercicio podrás practicar con las herramientas para trabajar con
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE0OTg5MjEsMTEwMDMyMDg1NV19
+eyJoaXN0b3J5IjpbLTE1MTA2NTE2NjUsLTE0NTE0OTg5MjEsMT
+EwMDMyMDg1NV19
 -->
