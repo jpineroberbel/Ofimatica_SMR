@@ -1,6 +1,6 @@
 ## EJERCICIO 26
 
-En este ejercicio vas a trabajar sobre la  **información de 2.000 clientes de una compañía de telecomunicaciones.**  La información esta en el archivo Datos Ejercicio disponible es algo de información personal (sexo, año de nacimiento, provincia) e información interna (importe de la factura, fecha de la factura, tipo de servicio prestado). Esta información se encuentra en una tabla inicial con los datos en bruto.
+En este ejercicio vas a trabajar sobre la  **información de 2.000 clientes de una compañía de telecomunicaciones.**  La información esta en el archivo "Datos Ejercicio 26.xls" disponible es algo de información personal (sexo, año de nacimiento, provincia) e información interna (importe de la factura, fecha de la factura, tipo de servicio prestado). Esta información se encuentra en una tabla inicial con los datos en bruto.
 
 En la siguiente imagen se puede ver una muestra de la tabla de datos que usaremos para nuestro análisis.
 
@@ -15,8 +15,6 @@ El ejercicio consiste en obtener los datos necesarios de la tabla para poder hac
 -   Diferencias porcentuales entre localidades
 -   Top 20 mayores facturas acumuladas
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc4NzAyOTldfQ==
+eyJoaXN0b3J5IjpbLTM5MDg0NzcyOF19
 -->
