@@ -1,10 +1,10 @@
 ## Ejercicio 2 - Panel de Control
 
 
-A partir de los datos del archivo [Ejercicio 2 - Panel de Control.xls" realiza un panel del control como el siguiente:
+A partir de los datos del archivo [Ejercicio 2 - Panel de Control.xls](Ejercicio 2 - Panel de Control.xls) realiza un panel del control como el siguiente:
  
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE5Mjc1NDMsMTYxNjU0OTkyOCw3Mz
+eyJoaXN0b3J5IjpbLTE2MzcxOTA0NjQsMTYxNjU0OTkyOCw3Mz
 A5OTgxMTZdfQ==
 -->
