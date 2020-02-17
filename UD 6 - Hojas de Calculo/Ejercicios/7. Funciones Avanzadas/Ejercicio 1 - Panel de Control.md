@@ -5,10 +5,13 @@ Con los datos del Ejercicio 25 de Bases de Datos realiza un panel de control que
  - Los ingresos totales
  - Gráfica de ingresos por sexos
  - Gráfica de ingresos por Afición
- - Muestre los 5 a
+ - Permita filtrar las gráficas por año
+ - Muestre los 5 años con más ingresos en una tabla (junto al total)
+ - Muestre las 5 aficiiones con más ingresos en una tabla (junto al total)
+ - 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDc2NjcwM119
+eyJoaXN0b3J5IjpbMTMwNDM4NDIxOV19
 -->
