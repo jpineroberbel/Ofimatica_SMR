@@ -5,7 +5,7 @@
 Antes de hacer los siguientes ejercicios realiza las prácticas proporcionadas por el profesor: Función Si, Si Anidados, Cine Videoclub, Campamento, Herencias, Empresa, Final México y Población.  
 Introduce la siguiente hoja de cálculo en un libro nuevo. Es importante respetar la estructura, el formato y los datos
 
-[![Excel. Uso de Funciones Avanzadas ](https://pruebas.teformas.com/wp-content/uploads/2012/10/ej18.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/10/ej18.jpg)
+![Excel. Uso de Funciones Avanzadas ](https://pruebas.teformas.com/wp-content/uploads/2012/10/ej18.jpg)
 
   
 
@@ -23,5 +23,5 @@ Introduce la siguiente hoja de cálculo en un libro nuevo. Es importante respeta
 -   El precio final será el precio con IVA menos la cantidad a descontar.
 -   Realiza un gráfico circular con el número de habitación y la cantidad de huéspedes. Con el número de habitación y el precio final realiza un gráfico de columnas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUyODMzMDBdfQ==
+eyJoaXN0b3J5IjpbMzMzMzY1MjkyXX0=
 -->
