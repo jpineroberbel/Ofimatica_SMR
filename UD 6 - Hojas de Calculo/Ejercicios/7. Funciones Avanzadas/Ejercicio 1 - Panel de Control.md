@@ -13,7 +13,6 @@ Con los datos del Ejercicio 25 de Bases de Datos realiza un panel de control que
  - 
 
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM0NDMxNTJdfQ==
+eyJoaXN0b3J5IjpbMjA4NDUwNzA2MCwtMTE5MzQ0MzE1Ml19
 -->
