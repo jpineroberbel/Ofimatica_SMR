@@ -1,4 +1,4 @@
-## Ejercicio 19 Excel. Objetivo: Uso de Funciones Avanzadas
+## Ejercicio 10 Excel. Objetivo: Uso de Funciones Avanzadas
 
 ### PRACTICA FUNCIONES AVANZADAS: SI, BUSCARV
 
@@ -16,5 +16,5 @@ En un nuevo libro introduce la siguiente información con esta estructura.
 -   Haz constar en sus casillas el precio máximo y mínimo pagado por un dvd.
 -   En Cantidad total debe aparecer el total de copias vendidas y en Total general la suma de los P.Total
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDk5MzVdfQ==
+eyJoaXN0b3J5IjpbLTI3NjM2MjIxNl19
 -->
