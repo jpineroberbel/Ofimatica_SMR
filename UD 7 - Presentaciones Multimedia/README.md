@@ -1,12 +1,7 @@
-﻿## **Tema 7 - Hojas de Cálculo**
+﻿## **Tema 7 - Presentaciones Multimedia**
 
 1. Introducción. 
-2. Formatos
-3. Fórmulas
-4. Trabajo con hojas
-5. Gráficos
-6. Base de Datos
-7. Funciones Avanzadas
+2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTc5OTU4OCwtMTQxMTgyNDY4M119
+eyJoaXN0b3J5IjpbMTgyNTIyNzc3NCwtMTQxMTgyNDY4M119
 -->
