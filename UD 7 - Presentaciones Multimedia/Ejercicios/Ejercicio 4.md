@@ -1,7 +1,7 @@
 ### Ejercicio  Presentaciones
 
 
-**EJERCICIO 14**
+**EJERCICIO 4**
 
 Realizar una presentación de una  **cuenta atrás**  de 10 al 0. Con el objetivo de reforzar el concepto de  **plantilla** y algunas de las herramientas de la  **barra de dibujo**  (_autoformas, lineas, flechas, rectángulo, elipse, cuadro de texto, WordArt, color de relleno, color de linea, color de texto, estilo de linea, estilo de guión, sombra y 3D_).
 
@@ -9,6 +9,6 @@ Realizar una presentación de una  **cuenta atrás**  de 10 al 0. Con el objetiv
 
 ![abecedario](https://www.opcionweb.com/datopcnweb/uploads/2007/02/cuenta_atrasabecedario.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODU1NTIxOCwtMTQ5NTM5NzgyNiwtMT
-MxOTc1NDkwMCwtNTkyMDI2MDI1XX0=
+eyJoaXN0b3J5IjpbMzExNTYzOTEzLC0xNDk1Mzk3ODI2LC0xMz
+E5NzU0OTAwLC01OTIwMjYwMjVdfQ==
 -->
