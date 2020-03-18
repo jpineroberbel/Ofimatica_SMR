@@ -12,8 +12,18 @@ Posteriormente crea una presentación lo más parecida posible a la mostrada en 
 
 [![](https://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva3-3-300x225.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva3-3.jpg)
 
+[![Ejercicio PowerPoint. Utilizar patrones de diapositivas](https://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva4-3-300x225.jpg "Ejercicio PowerPoint. Utilizar patrones de diapositivas")](http://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva4-3.jpg)
 
+[![](https://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva5-2-300x225.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva5-2.jpg)
+
+[![Ejercicio PowerPoint. Utilizar patrones de diapositivas](https://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva6-2-300x225.jpg "Ejercicio PowerPoint. Utilizar patrones de diapositivas")](http://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva6-2.jpg)
+
+[![Ejercicio PowerPoint. Utilizar patrones de diapositivas](https://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva7-300x225.jpg "Ejercicio PowerPoint. Utilizar patrones de diapositivas")](http://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva7.jpg)
+
+[![](https://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva8-300x225.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva8.jpg)
+
+[![Ejercicio PowerPoint. Utilizar patrones de diapositivas](https://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva9-300x225.jpg "Ejercicio PowerPoint. Utilizar patrones de diapositivas")](http://pruebas.teformas.com/wp-content/uploads/2012/11/Diapositiva9.jpg)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjQzMzUwNF19
+eyJoaXN0b3J5IjpbMTk4MTEwNTQ0NF19
 -->
