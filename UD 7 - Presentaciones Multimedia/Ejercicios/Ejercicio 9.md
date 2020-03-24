@@ -11,8 +11,7 @@ _La Unión Mundial para la Naturalieza desea mostrar a través de una  **present
 
 ![Ejercicio Práctico 3 power point 2007, 2010, 2013](https://jsequeiros.com/archivos/computacion/ppt2007/ejppt2007/img/ejercicio_03_power_point.png)
 
-4.  Generar una  **primera diapositiva**  a modo de  **presentación**, con los siguientes enlace:
-[https://www.deviantart.com/alaznegonzalez/art/MINI-GUIA-DE-DISENYO-Castellano-JPG-283913171](https://www.deviantart.com/alaznegonzalez/art/MINI-GUIA-DE-DISENYO-Castellano-JPG-283913171)
+4.  Generar una  **primera diapositiva**  a modo de  **presentación**, con los siguientes elementos:
 
 Debes por tanto ser capaz de adaptar esa información en talementos.
 
@@ -34,6 +33,6 @@ Debes por tanto ser capaz de adaptar esa información en talementos.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODU2MTEzNiwtMjA5NDA4NDIzNSwxMj
+eyJoaXN0b3J5IjpbLTgxMzg3MjUwNSwtMjA5NDA4NDIzNSwxMj
 I3MjY5MDVdfQ==
 -->
