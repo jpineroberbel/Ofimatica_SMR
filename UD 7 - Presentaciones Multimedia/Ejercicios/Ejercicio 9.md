@@ -1,4 +1,4 @@
-**EJERCICIO 109**
+**EJERCICIO 9**
 
 
 Re> _La Unión Mundial para la Naturalieza desea mostrar a través de una  **presentación**  con consejos para mejorar nuestras propias presentaciones. Para ello debes basarte en la información contenida en el **diapositivas de PowerPoint**, la situación en la que se encuentra actualmente la naturaleza del planeta y el futuro de determinadas especies de animales que corren peligro de extinción.En todos los casos se debe respetar el tamaño y disposición de los objetos así como las proporciones establecidas en cada diapositiva._
@@ -34,6 +34,6 @@ Debes por tanto ser capaz de adaptar esa información en talementos.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTEzNDQyMzQsLTIwOTQwODQyMzUsMT
-IyNzI2OTA1XX0=
+eyJoaXN0b3J5IjpbOTY2MTQ5NDYxLC0yMDk0MDg0MjM1LDEyMj
+cyNjkwNV19
 -->
