@@ -3,17 +3,14 @@
 
 _La Unión Mundial para la Naturalieza desea mostrar a través de una  **presentación**  con consejos para mejorar nuestras propias presentaciones. Para ello debes basarte en la información contenida en el **diapositivas de PowerPoint**, la situación en la que se encuentra actualmente la naturaleza del planeta y el futuro de determinadas especies de animales que corren peligro de extinción.En todos los casos se debe respetar el tamaño y disposición de los objetos así como las proporciones establecidas en cada diapositiva._
 
-1. Establecer el siguiente **patrón de diapositivas**. ([Imágenes para el ejercicio](https://jsequeiros.com/archivos/computacion/ppt2007/ejppt2007/archivos_ejercicio_3_ppt.zip "Imágenes para el ejercicio práctico Nro 03"))
-
-1.  El estilo del título del  **patrón**  presenta fuente Tahoma 40 ptos en negritas y color verde azulado.
-2.  El estilo del texto del  **patrón**  presenta fuente Tahoma y color azul.
-3.  La  **imagen**  corresponde al archivo  **atardecer.jpg**  la que tiene 2,5cm de ancho.
+ - Establecer el siguiente **patrón de diapositivas**. ([Imágenes para el ejercicio](https://jsequeiros.com/archivos/computacion/ppt2007/ejppt2007/archivos_ejercicio_3_ppt.zip "Imágenes para el ejercicio práctico Nro 03"))
+ - El estilo del título del  **patrón**  presenta fuente Tahoma 40 ptos en negritas y color verde azulado.
+ - El estilo del texto del  **patrón**  presenta fuente Tahoma y color azul.
+ -  La  **imagen**  corresponde al archivo  **atardecer.jpg**  la que tiene 2,5cm de ancho.
 
 ![Ejercicio Práctico 3 power point 2007, 2010, 2013](https://jsequeiros.com/archivos/computacion/ppt2007/ejppt2007/img/ejercicio_03_power_point.png)
 
 4.  Generar una  **primera diapositiva**  a modo de  **presentación**, con los siguientes elementos:
-
-Debes por tanto ser capaz de adaptar esa información en talementos.
 
 ![Ejercicio Práctico 3 power point 2007, 2010, 2013](https://jsequeiros.com/archivos/computacion/ppt2007/ejppt2007/img/ejercicio_03_power_point_1.png)
 
@@ -33,6 +30,6 @@ Debes por tanto ser capaz de adaptar esa información en talementos.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzg3MjUwNSwtMjA5NDA4NDIzNSwxMj
+eyJoaXN0b3J5IjpbMjA1NTk2MzI3MiwtMjA5NDA4NDIzNSwxMj
 I3MjY5MDVdfQ==
 -->
