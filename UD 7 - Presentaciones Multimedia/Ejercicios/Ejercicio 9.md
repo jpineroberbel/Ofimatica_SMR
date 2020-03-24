@@ -1,4 +1,4 @@
-**EJERCICIO 9**
+**EJERCICIO 10**
 
 
 Realiza una presentación con consejos para mejorar nuestras propias presentaciones. Para ello debes basarte en la información contenida en el siguiente enlace:
@@ -6,5 +6,5 @@ Realiza una presentación con consejos para mejorar nuestras propias presentacio
 
 Debes por tanto ser capaz de adaptar esa información en tantas diapositivas como consideres necesarias y darle un estilo atractivo (puedes basarte en como está diseñada la imagen del enlace)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzI2OTA1XX0=
+eyJoaXN0b3J5IjpbLTIwOTQwODQyMzUsMTIyNzI2OTA1XX0=
 -->
