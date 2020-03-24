@@ -7,7 +7,7 @@ Se espera pues que, en base al contenido anterior, decidas tú el diseño, basan
 
 Como puedes comprobar, en el enlace sólo se te proporciona texto, así que tienes libertad para hacer uso de las imágenes, dibujos y esquemas que tú consideres necesarios para hacerla lo más atractiva posible.
 
-En este ejercicio se valorará sobre todo el esfuerzo en 
+En este ejercicio se valorará sobre todo el esfuerzo en el diseño y creatividad de la presentación para transmitir el mensaje de un modo claro y conciso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzQ1MDk3MywxMTg3MTYzNzE3XX0=
+eyJoaXN0b3J5IjpbLTEwODc4NzMxODksMTE4NzE2MzcxN119
 -->
