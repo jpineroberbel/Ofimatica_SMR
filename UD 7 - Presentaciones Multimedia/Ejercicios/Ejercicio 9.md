@@ -1,9 +1,9 @@
 **EJERCICIO 9**
 
 
-Re> _La Unión Mundial para la Naturalieza desea mostrar a través de una  **presentación**  con consejos para mejorar nuestras propias presentaciones. Para ello debes basarte en la información contenida en el **diapositivas de PowerPoint**, la situación en la que se encuentra actualmente la naturaleza del planeta y el futuro de determinadas especies de animales que corren peligro de extinción.En todos los casos se debe respetar el tamaño y disposición de los objetos así como las proporciones establecidas en cada diapositiva._
+_La Unión Mundial para la Naturalieza desea mostrar a través de una  **presentación**  con consejos para mejorar nuestras propias presentaciones. Para ello debes basarte en la información contenida en el **diapositivas de PowerPoint**, la situación en la que se encuentra actualmente la naturaleza del planeta y el futuro de determinadas especies de animales que corren peligro de extinción.En todos los casos se debe respetar el tamaño y disposición de los objetos así como las proporciones establecidas en cada diapositiva._
 
-1. Establecer el siguiente **patrón de diapositivas**. ([Imágenes para el ejercicio Nro 03](https://jsequeiros.com/archivos/computacion/ppt2007/ejppt2007/archivos_ejercicio_3_ppt.zip "Imágenes para el ejercicio práctico Nro 03"))
+1. Establecer el siguiente **patrón de diapositivas**. ([Imágenes para el ejercicio](https://jsequeiros.com/archivos/computacion/ppt2007/ejppt2007/archivos_ejercicio_3_ppt.zip "Imágenes para el ejercicio práctico Nro 03"))
 
 1.  El estilo del título del  **patrón**  presenta fuente Tahoma 40 ptos en negritas y color verde azulado.
 2.  El estilo del texto del  **patrón**  presenta fuente Tahoma y color azul.
@@ -34,6 +34,6 @@ Debes por tanto ser capaz de adaptar esa información en talementos.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MTQ5NDYxLC0yMDk0MDg0MjM1LDEyMj
-cyNjkwNV19
+eyJoaXN0b3J5IjpbLTQ3ODU2MTEzNiwtMjA5NDA4NDIzNSwxMj
+I3MjY5MDVdfQ==
 -->
