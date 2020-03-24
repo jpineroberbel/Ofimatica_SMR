@@ -5,8 +5,9 @@ El Departamento de Informática del IES Francisco Ayala decide contratar tus ser
 
 Se espera pues que, en base al contenido anterior, decidas tú el diseño, basandote en los principales consejos aprendidos acerca de la creación de presentaciones, para que la presentación sea lo más clara y atractiva a la vez que quede claro a los oyentes en qué consiste el módulo de FCT.
 
-Haz uso de las herramientas de las imágenes, dibujos y esquemas necesarios para hacerla lo más atractiva posible.
+Como puedes comprobar, en el enlace sólo se te proporciona texto, así que tienes libertad para hacer uso de las imágenes, dibujos y esquemas que tú consideres necesarios para hacerla lo más atractiva posible.
 
+En este ejercicio se valorará sobre todo el esfuerzo en 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjM3MDc2OCwxMTg3MTYzNzE3XX0=
+eyJoaXN0b3J5IjpbMTU3MzQ1MDk3MywxMTg3MTYzNzE3XX0=
 -->
