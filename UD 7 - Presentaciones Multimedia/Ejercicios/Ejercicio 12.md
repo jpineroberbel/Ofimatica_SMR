@@ -1,4 +1,4 @@
-### Ejercicio 3 PowerPoint. Insertar tablas, imágenes e ilustraciones
+**EJERCICIO 12**
 
 Diseña 6 diapositivas en PowerPoint como las de las siguientes imágenes.
 
@@ -19,5 +19,5 @@ Diseña 6 diapositivas en PowerPoint como las de las siguientes imágenes.
 
 [![](https://pruebas.teformas.com/wp-content/uploads/2019/10/Diapositiva6-1-300x225.jpg)](http://pruebas.teformas.com/wp-content/uploads/2019/10/Diapositiva6-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDc5NTEyNV19
+eyJoaXN0b3J5IjpbLTIxMjAwMzQzNjddfQ==
 -->
