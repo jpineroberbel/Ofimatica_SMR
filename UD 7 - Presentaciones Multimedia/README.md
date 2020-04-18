@@ -12,8 +12,17 @@
 5. Insertar Objetos
 	- Imágenes
 	- Albumes de Fotografías
-	- WordArt y 
+	- WordArt y Formas
+	- Gráficos
+	- Tablas
+	- Hojas de Cálculo
+	- Videos y Sonido
+6. Patrón de Diapositivas
+7. Efectos
+	- Transiciones
+	- Animaciones
+	- Acciones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTkzNjQ2MSwxODI1MjI3Nzc0LC0xND
+eyJoaXN0b3J5IjpbLTQ5MDY3ODA1MiwxODI1MjI3Nzc0LC0xND
 ExODI0NjgzXX0=
 -->
