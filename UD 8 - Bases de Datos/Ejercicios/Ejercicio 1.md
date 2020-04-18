@@ -1,4 +1,5 @@
-**EJERCICIO 1 - Bases de Datos**
+## EJERCICIO 1 - Bases de Datos
+
 ### BIBLIOTECA. Crear y relacionar tablas.
 
 Realizar una Base de Datos para controlar el movimiento de una biblioteca.
@@ -26,5 +27,5 @@ La Base de Datos estará compuesta por tres tablas: socios, libros y préstamos.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDk2OTg3MV19
+eyJoaXN0b3J5IjpbLTEwODk2NTMwODNdfQ==
 -->
