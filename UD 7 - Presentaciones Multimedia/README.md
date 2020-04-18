@@ -22,7 +22,12 @@
 	- Transiciones
 	- Animaciones
 	- Acciones
+8. Herramientas on-line para presentaciones
+	- Canva
+	- Prezzi
+	- Genially
+9. ¿Cómo hace
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDY3ODA1MiwxODI1MjI3Nzc0LC0xND
-ExODI0NjgzXX0=
+eyJoaXN0b3J5IjpbMTA3MDgyMDI3NiwtNDkwNjc4MDUyLDE4Mj
+UyMjc3NzQsLTE0MTE4MjQ2ODNdfQ==
 -->
