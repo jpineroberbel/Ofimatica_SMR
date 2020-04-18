@@ -1,4 +1,4 @@
-## EJERCICIO 3 - Bases de Datos
+## EJERCICIO 4 - Bases de Datos
 
 ### Distribuir la información en tablas y relacionarlas.
 
@@ -23,5 +23,5 @@
     -   En un departamento puedan haber varios trabajadores.
     -   Un empleado pueda realizar varias tareas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDcxMjk3M119
+eyJoaXN0b3J5IjpbNjg4NzQ1NTU0XX0=
 -->
