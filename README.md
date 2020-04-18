@@ -19,20 +19,19 @@ Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - 
 
 -   UD 6 - Presentaciones Multimedia
 
-
-
--   UD 8 - Bases de Datos
-
+-   UD 7 - Bases de Datos
+ - UD 8 - Edición de Video
 -   UD 9 - Correo y Agenda Electrónica
 
 
 
 
 
->  Retoque digital de imágenes
+
 
 > Jose A. Piñero Berbel
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ1MTc4NCwtMTQxMTgyNDY4M119
+eyJoaXN0b3J5IjpbLTEyNzc1ODg4MzgsLTE0MTE4MjQ2ODNdfQ
+==
 -->
