@@ -26,8 +26,10 @@
 	- Canva
 	- Prezzi
 	- Genially
-9. ¿Cómo hace
+9. ¿Cómo hacer una presentación oral?
+	- Consejos. ¿Como hacer una presentación eficaz?
+	- Storytelling  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDgyMDI3NiwtNDkwNjc4MDUyLDE4Mj
-UyMjc3NzQsLTE0MTE4MjQ2ODNdfQ==
+eyJoaXN0b3J5IjpbMjM4NDM4ODYyLC00OTA2NzgwNTIsMTgyNT
+IyNzc3NCwtMTQxMTgyNDY4M119
 -->
