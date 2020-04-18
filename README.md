@@ -1,5 +1,5 @@
 ﻿# Aplicaciones Ofimáticas
-==
+
 
 Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - IES
  Francisco Ayala (Granada)
@@ -32,5 +32,6 @@ Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - 
 > Jose A. Piñero Berbel
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3OTc2NTU0LC0xNDExODI0NjgzXX0=
+eyJoaXN0b3J5IjpbLTE1NDE5NTAzMjYsLTE0MTE4MjQ2ODNdfQ
+==
 -->
