@@ -4,8 +4,9 @@
 Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - IES
  Francisco Ayala (Granada)
 
+
 ## Secuencia de Temas
-------------------
+
 
 -  UD 1 - Instalación de Aplicaciones
 
@@ -32,6 +33,5 @@ Módulo Aplicaciones Ofimáticas del CFGM Sistemas Microinformáticos y Redes - 
 > Jose A. Piñero Berbel
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE5NTAzMjYsLTE0MTE4MjQ2ODNdfQ
-==
+eyJoaXN0b3J5IjpbLTM0NDMyODU4MCwtMTQxMTgyNDY4M119
 -->
