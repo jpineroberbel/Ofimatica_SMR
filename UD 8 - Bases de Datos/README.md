@@ -13,7 +13,11 @@
 	- Consultas de Acción
 5. Formularios
 6. Informes
+
+
+#### Recursos Interesantes
+[https://www.youtube.com/watch?v=PBeqcvgXDew&list=PLomN84AdULIBAQAWwlsTWREQiso_E27nc](https://www.youtube.com/watch?v=PBeqcvgXDew&list=PLomN84AdULIBAQAWwlsTWREQiso_E27nc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MjQyNjMsLTg2NDIxMDYyMCwxOTcwOT
-IyOTg1XX0=
+eyJoaXN0b3J5IjpbLTM5NjUzNjA1OSw0NzkyNDI2MywtODY0Mj
+EwNjIwLDE5NzA5MjI5ODVdfQ==
 -->
