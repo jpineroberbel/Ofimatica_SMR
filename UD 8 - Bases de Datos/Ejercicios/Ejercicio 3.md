@@ -1,6 +1,6 @@
 ## EJERCICIO 3 - Bases de Datos
 
-### PEDIDOS CLIENTES.VIDEOCLUB. Objetivo: Crear y relacionar tablas.
+### PEDIDOS CLIENTES. Crear y relacionar tablas.
 
 Realizar una Base de Datos que almacene la información relativa a los pedidos de productos por parte de los clpara controlar el movimienteso de una empresa VIDEOCLUB.  
 Nombre de la Base de Datos: Pedidos de clientesVIDEOCLUB.
@@ -40,5 +40,5 @@ Intenta insertar un nuevo registro en la tabla Dvd con los siguientes datos:
 
 ¿Por qué no permite su inserción?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODA5NjA3NCwxMDczOTQ0MjYxXX0=
+eyJoaXN0b3J5IjpbMTg2ODA0ODg0NywxMDczOTQ0MjYxXX0=
 -->
