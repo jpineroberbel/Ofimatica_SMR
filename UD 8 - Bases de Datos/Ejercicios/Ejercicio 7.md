@@ -17,9 +17,7 @@ Antes de realizar cada uno de estos ejercicios estudiar la distribución de info
   
   
 
-**B.**Nombre de los escritores de los que no se conoce el año de nacimiento.
-5.  Título de los libros publicados por editoriales de Boston después de 1990.
-6.  Nombre, dirección y teléfono de las editoriales con número de teléfono que empiece por 2.
+**B.** ls deNombre de los escritores   Nombre, dirección y teléfono de las editoriales con número de teléfono que empiece por 2.
 7.  Nombre completo de los escritores que se llamen Michael.
 8.  Título y año de publicación de los libros publicados recientemente (desde 1995) y que contengan la palabra “Access” en su titulo.
 
@@ -55,5 +53,6 @@ Antes de realizar cada uno de estos ejercicios estudiar la distribución de info
 
 (Resultado en cantidad de registros: 1–6, 2-38, 3-8, 4-4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIyODQ1OTEsLTEwMzk1MDI3Ml19
+eyJoaXN0b3J5IjpbMjA5MTM2MDc4MiwtMTYxMjI4NDU5MSwtMT
+AzOTUwMjcyXX0=
 -->
