@@ -1,4 +1,4 @@
-## EJERCICIO 109 - Bases de Datos
+## EJERCICIO 12 - Bases de Datos
 
 
 ### NEPTUNOVIDEOCLUB. Consultas de acción.
