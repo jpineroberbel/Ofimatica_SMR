@@ -12,7 +12,11 @@ La Base de Datos estará compuesta por las tablas: Clientes, Productos, Modos En
 Las características de cada una de las tablas se muestra a continuación:
 ![](http://pruebas.teformas.com/wp-content/uploads/2012/12/11.jpg)
 ![](http://pruebas.teformas.com/wp-content/uploads/2012/12/12.jpg)
+![](http://pruebas.teformas.com/wp-content/uploads/2012/12/13.jpg)
+![](http://pruebas.teformas.com/wp-content/uploads/2012/12/14.jpg)
 
+Crear las **relaciones** necesarias entre las tablas para el correcto funcionamiento de la base de datos.
+![](http://pruebas.teformas.com/wp-content/uploads/2012/12/15.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzQ4ODY1OCwxMDczOTQ0MjYxXX0=
+eyJoaXN0b3J5IjpbMjAxMjY2MzA5MywxMDczOTQ0MjYxXX0=
 -->
