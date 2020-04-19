@@ -1,5 +1,5 @@
 ## EJERCICIO 98 - Bases de Datos
-### VIDEOCLUB. Consultas de acciónCampos Calculados y Totales.
+### VIDEOCLUB. Consultas de acciónCampos Calculados y Totales .
 
 Antes de realizar cada uno de estos ejercicios estudiar la distribución de información en tablas y las relaciones entre estas.
 
@@ -43,5 +43,6 @@ Realiza las siguientes **consultas** sobr**A.** A partir de la **base de datos [
 
 (Resultado en cantidad de registros: 1-6, 2-38, 3-5, 4-“3,82€”)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTQ3ODY3MSwxMjQzNjI4NDk2XX0=
+eyJoaXN0b3J5IjpbLTI2NjAyMTQ4OSwxNjg5NDc4NjcxLDEyND
+M2Mjg0OTZdfQ==
 -->
