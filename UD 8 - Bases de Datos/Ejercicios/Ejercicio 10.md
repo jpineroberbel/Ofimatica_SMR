@@ -1,4 +1,4 @@
-## EJERCICIO 98 - Bases de Datos
+## EJERCICIO 10 - Bases de Datos
 ### VIDEOCLUB. Consultas de acciónCampos Calculados y Totales .
 
 Antes de realizar cada uno de estos ejercicios estudiar la distribución de información en tablas y las relaciones entre estas.
