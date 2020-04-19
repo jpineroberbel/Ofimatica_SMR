@@ -1,4 +1,4 @@
-## EJERCICIO 76 - Bases de Datos
+## EJERCICIO 7 - Bases de Datos
 ### Consultas de selección con parámetro.
 
 Antes de realizar cada uno de estos ejercicios estudiar la distribución de información en tablas y las relaciones entre estas.
@@ -55,5 +55,5 @@ Antes de realizar cada uno de estos ejercicios estudiar la distribución de info
 
 (Resultado en cantidad de registros: 1–6, 2-38, 3-8, 4-4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzgzMjM3OSwtMTAzOTUwMjcyXX0=
+eyJoaXN0b3J5IjpbLTE2MTIyODQ1OTEsLTEwMzk1MDI3Ml19
 -->
