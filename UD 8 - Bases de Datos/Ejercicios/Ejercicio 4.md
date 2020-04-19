@@ -19,7 +19,7 @@ Las características de cada una de loas Empleados.
     -   Fotografía de los Empleados.
     -   Nombre del Deptablas se muestra a continuación:
 
-[![](https://pruebas.teformas.com/wp-content/uploads/2012/12/11.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/12/11.jpg)
+[](http://pruebas.teformas.com/wp-content/uploads/2012/12/11.jpg)
 
 [![Crear y relacionar tamento.
     -   Trabajadores en Departamento.
@@ -46,5 +46,6 @@ Crear las **relaciones oportunas para que:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA3NTAyNjIsNjg4NzQ1NTU0XX0=
+eyJoaXN0b3J5IjpbMTI3NjI1Mjc0MiwtMTYxMDc1MDI2Miw2OD
+g3NDU1NTRdfQ==
 -->
