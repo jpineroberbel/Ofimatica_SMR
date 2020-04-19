@@ -1,5 +1,7 @@
-## EJERCICIO 6 5- Bases de Datos
 
+
+
+> Written2with B[StsckEdit](http://stackedit.io/)
 ### Consultas de selección.
 
 Antes de realizar cada uno de estos ejercicios estudiar la distribución de información en tablas y las relaciones entre estas.
@@ -71,6 +73,6 @@ Departamento.
 
 (Resultado en cantidad de registros: 1–6, 2-38, 3-8, 4-4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzA4MjUwNSwtMTg5OTcwODQ5OCwtNT
-c0MTM4MjZdfQ==
+eyJoaXN0b3J5IjpbMjUxNjAwNzM1LC0xODk5NzA4NDk4LC01Nz
+QxMzgyNl19
 -->
