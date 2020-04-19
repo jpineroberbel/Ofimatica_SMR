@@ -2,43 +2,17 @@
 
 ### PEDIDOS CLIENTES. Crear y relacionar tablas.
 
-Realizar una Base de Datos que almacene la información relativa a los pedidos de productos por parte de los clpara controlar el movimienteso de una empresa VIDEOCLUB.  
-Nombre de la Base de Datos: Pedidos de clientesVIDEOCLUB.
+
+Realizar una Base de Datos que almacene la información relativa a los pedidos de productos por parte de los clientes de una empresa.  
+
+Nombre de la Base de Datos: Pedidos de clientes.
 
 La Base de Datos estará compuesta por las tablas: Clientes, Productos, Modos Envío, Pedidos, Productos Pedido, Proveedores.
 
 Las características de cada una de las tablas se muestra a continuación:
+![](http://pruebas.teformas.com/wp-content/uploads/2012/12/11.jpg)
+![](http://pruebas.teformas.com/wp-content/uploads/2012/12/12.jpg)
 
-[![ que se presentan a continuación:
-
-[![Crear y relacionar tablas](https://pruebas.teformas.com/wp-content/uploads/2012/12/116.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/12/116.jpg)
-
-  
-  
-  
-[![Crear y relacionar tablas.](https://pruebas.teformas.com/wp-content/uploads/2012/12/127.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/12/127.jpg)
-
-  
-  
-
-[![Crear y relacionar tablas.](https://pruebas.teformas.com/wp-content/uploads/2012/12/138.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/12/138.jpg)
-
-[![Crear y las **relacionar tablas.es** necesarias entre las tablas para el correcto funcionamiento de la base de datos.
-
-[![](https://pruebas.teformas.com/wp-content/uploads/2012/12/149.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/12/149.jpg)
-
-CIngresar las **relaciones** necesarias entre las tablas para el correcto funcionamiento de la base de datos.a cada tabla algunos registros. Por ejemplo:
-
-[![](https://pruebas.teformas.com/wp-content/uploads/2012/12/150.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/12/150.jpg)
-
- ritten withtacdit](https://stacedit.o/).¿Hay algún problema al añadir el segundo alquiler? ¿A qué crees que se debe?
-
-Intenta insertar un nuevo registro en la tabla Dvd con los siguientes datos:
-
--   Ident-dvd: AVA-1
--   Título: Avatar
-
-¿Por qué no permite su inserción?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODA0ODg0NywxMDczOTQ0MjYxXX0=
+eyJoaXN0b3J5IjpbMTA3NzQ4ODY1OCwxMDczOTQ0MjYxXX0=
 -->
