@@ -1,4 +1,4 @@
-## EJERCICIO 8 - Bases de Datos
+## EJERCICIO 9 - Bases de Datos
 ### Consultas de naado los de Campos Calculados y Totales selección con parámetro.
 
 Antes de realizar cada uno de estos ejercicios estudiar la distribución de información en tablas y las relaciones entre estas.
