@@ -1,4 +1,4 @@
-## EJERCICIO 6 - Bases de Datos
+## EJERCICIO 6 5- Bases de Datos
 
 ### Consultas de selección.
 
@@ -19,8 +19,8 @@ A partir de la **base de datos “Videoclub"** realizar las siguientes tareas co
 
 -   año de estreno la tabla Películas.
 -   título de películas la tabla Dvd.
--   Nnombre, dirección y teléfono de las editoriales con número de teléfono que empiece por 2.
-7.  Nombre completo de los escritores que se llamen Michael.
+-   Nnombre, dirección y e ls iales con número de teléfono que empiece por 2.
+7.  Nombre compto de los escritores que se llamen Michael.
 8.  Título y año de publicación de los libros publicados recientemente (desde 1995) y que contengan la palabra “Access” en su titulo.
 
 (Resultado en cantidad de registros: 1–18, 2-6, 3-5, 4-434, 5-28, 6-11, 7-11, 8-38 la tabla de Clientes.
@@ -30,16 +30,15 @@ A partir de la **base de datos “Videoclub"** realizar las siguientes tareas co
 
 (Antes de aplicar cada filtro elimina el anterior)
 
--  
+-  e e 
   
 
-**B.** La **BD “[Neptuno.mdb](http://descargas.teformas.com/Archivos%20Teformas/NEPTUNO.accdb)”** contiene información relativa a los pedidos de una empresa. Realizar las siguientes **consultas** sobre los datos allí almacenados:
-
-1.  Nombre, apellido y cargo de los empleados que estén trabajando desde antes del 1993 (El campo es de tipo fecha así que el criterio también debe realizarse con una fecha: 1/1/1993).
-2.  Nombre de compañía, contacto, dirección y ciudad de los clientes a los que se les envió un pedido (fecha envío) en 1996. (¡Cuidado que el campo es de tipo fecha!)
+**B.** La **BD “[Neptuno.mdb](http://descargas.teformas.com/Archivos%20Teformas/NEPTUNO.accdb)”** contiene información relativa a los pedidos de una empresa. Realizar las siguientes **consultas** sobre los datos allí almacenados.
+.-   Nombre, apellido y cargo de los empleados que estén trabajando desde antes del 1993 (El campo es de tipo fecha así que el criterio también debe realizarse con una fecha: 1/1/1993).
+2.   - Nombre compañía, contacleto, dDirección y ciudad de los clientes a los que sTeléfonos de leos envió un pedido (fecha envío) en 1996. (¡Cuidado que el campo es de tipo fecha!)
 3.  Nombre de contacto y teléfono de los proveedores de los productos con pocas unidades en existencia (<10). Incluid también el nombre del producto en la consulta.
 4.  Nombre de los productos con un precio por unidad (tabla productos) de más de 30 dólares enviados a Alemania.
-5.  Nombre, apellido y cargo de los empleados que han realizado pedidos de má Mostrar todas las comedias en la tabla películas.
+5.  Nombre, apellido y cargo de los empleados que han realizado pedidos de máEmplead Mostrar todas las comedias en la tabla películas.
 -   Mostrar los dramas del año 2000 en la tabla películas.
 -   Mostrar las películas dirigidas por Vicente Aranda.
 -   Mostrar los alquileres de 4,00 €.
@@ -53,8 +52,9 @@ A partir de la **base de datos “Videoclub"** realizar las siguientes tareas co
 1.  Ident-Dvd y título de los dvd sin devolver (Fecha devolución = nulo).
 2.  DNI, nombre, dirección, teléfono y correo electrónico de los clientes que han alquilado algún dvd el año 2001. (Cuidado que el campo fecha de alquiler es de tipo fecha).
 3.  Título de los dramas del 1999, comedias de 1997 y de todas las películas del 2001.
-4.  Nombre de los clientes que han alquilado una película que se estrenó en 1997. Incluid también el título de la pelícu€ del cliente con DNI 33333333C .
-
+4.  Nombre de los clientes que han alquilado una película qu-   Trabajadores en Departamento.
+    -   Responsable sde estrenó en 1997. Incluid también el título de la pelícu€ del cliente con DNI 33333333C .
+Departamento.
   
   
 
@@ -71,5 +71,6 @@ A partir de la **base de datos “Videoclub"** realizar las siguientes tareas co
 
 (Resultado en cantidad de registros: 1–6, 2-38, 3-8, 4-4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk3MDg0OTgsLTU3NDEzODI2XX0=
+eyJoaXN0b3J5IjpbLTkzMzA4MjUwNSwtMTg5OTcwODQ5OCwtNT
+c0MTM4MjZdfQ==
 -->
