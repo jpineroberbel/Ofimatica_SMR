@@ -1,4 +1,4 @@
-## EJERCICIO 43 - Bases de Datos
+## EJERCICIO 4 - Bases de Datos
 
 ### Distribuir la información en tablasPEDIDOS CLIENTES. Crear y relacionar tablas.
 
@@ -46,5 +46,5 @@ Crear las **relaciones oportunas para que:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDU3ODMzMyw2ODg3NDU1NTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MTA3NTAyNjIsNjg4NzQ1NTU0XX0=
 -->
