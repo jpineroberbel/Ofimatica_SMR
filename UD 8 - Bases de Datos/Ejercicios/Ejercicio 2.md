@@ -1,6 +1,6 @@
-EJERCICIO 2 - Bases de Datos
+## EJERCICIO 2 - Bases de Datos
 
-### VIDEOCLUB. ObjetivoA. Crear y relacionar tablas.
+### VIDEOCLUB. Objetivo: Crear y relacionar tablas.
 
 Realizar una Base de Datos para controlar el movimiento de un VIDEOCLUB. 
  Nombre de la Base de Datos: VIDEOCLUB.
@@ -33,5 +33,5 @@ Intenta insertar un nuevo registro en la tabla Dvd con los siguientes datos:
 
 ¿Por qué no permite su inserción?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMzUxMTYxLDE1OTI5MTI2NTBdfQ==
+eyJoaXN0b3J5IjpbNTMwNDQ3NzQyLDE1OTI5MTI2NTBdfQ==
 -->
