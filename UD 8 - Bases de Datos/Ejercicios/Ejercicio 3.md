@@ -1,4 +1,4 @@
-## EJERCICIO 32 - Bases de Datos
+## EJERCICIO 3 - Bases de Datos
 
 ### PEDIDOS CLIENTES.VIDEOCLUB. Objetivo: Crear y relacionar tablas.
 
@@ -40,5 +40,5 @@ Intenta insertar un nuevo registro en la tabla Dvd con los siguientes datos:
 
 ¿Por qué no permite su inserción?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUzODA4MDgsMTA3Mzk0NDI2MV19
+eyJoaXN0b3J5IjpbMTcwODA5NjA3NCwxMDczOTQ0MjYxXX0=
 -->
