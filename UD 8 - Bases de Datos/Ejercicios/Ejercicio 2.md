@@ -19,7 +19,11 @@ La Base de Datos estará compuesta por las tablas que se presentan a continuaci�
 
 Crear las **relaciones** necesarias entre las tablas para el correcto funcionamiento de la base de datos.
 
+![](http://pruebas.teformas.com/wp-content/uploads/2012/12/9.jpg)
 
+Ingresar a cada tabla algunos registros. Por ejemplo:
+
+![](http://pruebas.teformas.com/wp-content/uploads/2012/12/10.jpg)
 
 ¿Hay algún problema al añadir el segundo alquiler? ¿A qué crees que se debe?
 
@@ -30,5 +34,5 @@ Intenta insertar un nuevo registro en la tabla Dvd con los siguientes datos:
 
 ¿Por qué no permite su inserción?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTk1NjM4OSwxNTkyOTEyNjUwXX0=
+eyJoaXN0b3J5IjpbLTE5MzgxNTgwMTIsMTU5MjkxMjY1MF19
 -->
