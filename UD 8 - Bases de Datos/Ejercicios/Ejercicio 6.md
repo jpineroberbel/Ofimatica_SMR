@@ -1,4 +1,4 @@
-## EJERCICIO 65 - Bases de Datos
+## EJERCICIO 6 - Bases de Datos
 
 ### Consultas de selección.
 
@@ -71,5 +71,5 @@ A partir de la **base de datos “Videoclub"** realizar las siguientes tareas co
 
 (Resultado en cantidad de registros: 1–6, 2-38, 3-8, 4-4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTUzNDQ1NywtNTc0MTM4MjZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTk3MDg0OTgsLTU3NDEzODI2XX0=
 -->
