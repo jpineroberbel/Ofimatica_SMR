@@ -1,5 +1,5 @@
-## EJERCICIO 87 - Bases de Datos
-### Consultas de Campos Calculados y Totalesselección con parámetro.
+## EJERCICIO 8 - Bases de Datos
+### Consultas de Campos Calculados y Totales selección con parámetro.
 
 Antes de realizar cada uno de estos ejercicios estudiar la distribución de información en tablas y las relaciones entre estas.
 
@@ -50,5 +50,5 @@ Antes de realizar cada uno de estos ejercicios estudiar la distribución de info
 
 (Resultado en cantidad de registros: 1–Ej: “11111111A” 2, 2-Ej: “AIR-1” 1, 3-Ej:”00000000J” 1, 4-Ej:”drama” 25)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDg2MjE3MSwxNDY5NzI0MDkzXX0=
+eyJoaXN0b3J5IjpbMjA4OTc0MTM1NiwxNDY5NzI0MDkzXX0=
 -->
