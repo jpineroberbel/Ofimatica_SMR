@@ -9,13 +9,6 @@ A partir de la **base de datos “Videoclub"** realizar las siguientes tareas co
 -   año de estreno la tabla Películas.
 -   título de películas la tabla Dvd.
 -   nombre la tabla de Clientes.
- ontenga información relativa a los empleados de una empresa y sus tareas o proyectos realizados.
-
--   Nombre de la Base de Datos: Empleados.
-
--   Datos:
-	   - Nombre completo, Dirección y Teléfonos de los Empleados.
-    -   Número de la seguridad social de los Empleados.
 -   DNI del cliente la tabla Alquiler.
 
 ### Filtros:
@@ -88,6 +81,6 @@ reass/2012/12/15.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/12/15
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTkxMTMyNiwtNzA1NTQzMjYwLDEyNT
-A0MDkzNTFdfQ==
+eyJoaXN0b3J5IjpbNjg5ODM3NzUxLDE0MzU5MTEzMjYsLTcwNT
+U0MzI2MCwxMjUwNDA5MzUxXX0=
 -->
