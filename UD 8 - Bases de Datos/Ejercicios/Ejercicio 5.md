@@ -1,6 +1,6 @@
 ## EJERCICIO 5 - Bases de Datos
 
-### Distribuir la información en tablasPEDIDOS CLIENTES. Crear y relacionar tablas.
+### PEDIDOS CLIENTES. Crear y relacionar tablas.
 
  Crea una BD que contengRealizar una Base de Datos que almacene la información relativa a los empleapedidos de una empresa y sus tareas o proyectos realizados.
 
@@ -46,6 +46,6 @@ Crear las **relaciones oportunas para que:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjI1Mjc0MiwtMTYxMDc1MDI2Miw2OD
-g3NDU1NTRdfQ==
+eyJoaXN0b3J5IjpbMTgyMDA3Mzc5OCwxMjc2MjUyNzQyLC0xNj
+EwNzUwMjYyLDY4ODc0NTU1NF19
 -->
