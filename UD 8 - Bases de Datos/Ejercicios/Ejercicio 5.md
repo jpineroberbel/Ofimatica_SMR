@@ -8,7 +8,7 @@
 
 -   Datos:
 
--   -   Nombre completo, Dirección y Teléfonos de los Empleados.
+	   -   Nombre completo, Dirección y Teléfonos de los Empleados.
     -   Número de la seguridad social de los Empleados.
     -   Cargo y departamento de los Empleados.
     -   Fecha de Contratación y salario de los Empleados.
@@ -24,6 +24,6 @@
     -   En un departamento puedan haber varios trabajadores.
     -   Un empleado pueda realizar varias tareas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI4MTk1NjcsMTI3NjI1Mjc0MiwtMT
-YxMDc1MDI2Miw2ODg3NDU1NTRdfQ==
+eyJoaXN0b3J5IjpbLTExMTY3NjAyNCwxMjc2MjUyNzQyLC0xNj
+EwNzUwMjYyLDY4ODc0NTU1NF19
 -->
