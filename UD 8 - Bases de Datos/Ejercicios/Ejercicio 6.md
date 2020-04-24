@@ -20,7 +20,18 @@ A partir de la **base de datos “Videoclub"** realizar las siguientes tareas co
 -   Mostrar las películas dirigidas por Vicente Aranda.
 -   Mostrar los alquileres de 4,00 €.
 -   Mostrar los alquileres de 3,00 € del cliente con DNI 33333333C .
+
+### Buscar registros:
+
+-   En la tabla películas buscar …
+    -   directores que se llamen Pedro.
+    -   directores o intérpretes que se llamen Alex.
+-   En la tabla clientes buscar la palabra SE en cualquier campo.
+
+### Modificar el formato de la Hoja de Datos:
+
+-   Cambiar las propiedades del texto y de la cuadrícula de cada una de las tablas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDA3MTQ1NSwxNDM1OTExMzI2LC03MD
+eyJoaXN0b3J5IjpbMTgxNDQ4Mjc2MiwxNDM1OTExMzI2LC03MD
 U1NDMyNjAsMTI1MDQwOTM1MV19
 -->
