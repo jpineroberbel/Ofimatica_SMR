@@ -10,10 +10,10 @@ Disponemos los siguientes datos organizados en estas **dos tablas**:
 -   Crea un **formulario con subformulario**, que muestre todos los datos almacenados en las tablas.
 -   Inserta datos mediante el formulario recién creado (al menos 5 interpretes y 2 grabaciones por cada uno)
 -   Crea las siguientes **consultas de selección**:
-           a) Mostrar las grabaciones (título, categoría musical, año de lanzamiento, formato y notas) de un intérprete en concreto.
-           b) Mostrar las grabaciones (título, año de lanzamiento, formato y notas) de una categoría de música en concreto y su intérprete.
-           c) Mostrar las grabaciones (título, categoría musical, formato y notas) de un año en concreto y su intérprete.
-           d) Mostrar las grabaciones (título, categoría musical, año de lanzamiento y notas) en CD y su intérprete.
+           -Mostrar las grabaciones (título, categoría musical, año de lanzamiento, formato y notas) de un intérprete en concreto.
+           - Mostrar las grabaciones (título, año de lanzamiento, formato y notas) de una categoría de música en concreto y su intérprete.
+           - Mostrar las grabaciones (título, categoría musical, formato y notas) de un año en concreto y su intérprete.
+           - Mostrar las grabaciones (título, categoría musical, año de lanzamiento y notas) en CD y su intérprete.
 
   
   
