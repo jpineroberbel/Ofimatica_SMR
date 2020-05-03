@@ -22,5 +22,5 @@ Disponemos los siguientes datos organizados en estas **dos tablas**:
 -   Crea un **informe** para la **consulta c** y otro para la **consulta d**.
 -   Realiza en vista Diseño un **formulario** con botones que nos permita abrir los dos informes y los tres formularios creados.
 -   Crea las siguientes **consultas de acción**:
-        -   **Eliminar los datos** de un intérprete en concreto.
-        -   **Crear una tabla** copia de la tabla Grabaciones (copia de seguridad).
+           -   **Eliminar los datos** de un intérprete en concreto.
+           -   **Crear una tabla** copia de la tabla Grabaciones (copia de seguridad).
