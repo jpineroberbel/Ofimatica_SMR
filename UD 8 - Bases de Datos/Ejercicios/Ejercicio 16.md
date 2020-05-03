@@ -6,14 +6,14 @@ Disponemos los siguientes datos organizados en estas **dos tablas**:
 
 [![ejercicio resumen access](https://pruebas.teformas.com/wp-content/uploads/2012/12/18.jpg)](http://pruebas.teformas.com/wp-content/uploads/2012/12/18.jpg)
 
--   Establece la **relación** entre ellas para que pueda darse el caso de que tengamos varias grabaciones del mismo intérprete.
--   Crea un **formulario con subformulario**, que muestre todos los datos almacenados en las tablas.
--   Inserta datos mediante el formulario recién creado (al menos 5 interpretes y 2 grabaciones por cada uno)
--   Crea las siguientes **consultas de selección**:
-           - Mostrar las grabaciones (título, categoría musical, año de lanzamiento, formato y notas) de un intérprete en concreto.
-           - Mostrar las grabaciones (título, año de lanzamiento, formato y notas) de una categoría de música en concreto y su intérprete.
-           - Mostrar las grabaciones (título, categoría musical, formato y notas) de un año en concreto y su intérprete.
-           - Mostrar las grabaciones (título, categoría musical, año de lanzamiento y notas) en CD y su intérprete.
+1.   Establece la **relación** entre ellas para que pueda darse el caso de que tengamos varias grabaciones del mismo intérprete.
+2.   Crea un **formulario con subformulario**, que muestre todos los datos almacenados en las tablas.
+3.   Inserta datos mediante el formulario recién creado (al menos 5 interpretes y 2 grabaciones por cada uno)
+4.   Crea las siguientes **consultas de selección**:
+           4.1 Mostrar las grabaciones (título, categoría musical, año de lanzamiento, formato y notas) de un intérprete en concreto.
+           4.2 Mostrar las grabaciones (título, año de lanzamiento, formato y notas) de una categoría de música en concreto y su intérprete.
+           4.3 Mostrar las grabaciones (título, categoría musical, formato y notas) de un año en concreto y su intérprete.
+           4.4 Mostrar las grabaciones (título, categoría musical, año de lanzamiento y notas) en CD y su intérprete.
 
   
   
