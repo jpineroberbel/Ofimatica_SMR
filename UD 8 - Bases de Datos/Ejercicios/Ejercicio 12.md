@@ -3,7 +3,7 @@
 
 Antes de realizar cada uno de estos ejercicios estudiar la distribución de información en tablas y las relaciones entre estas.
 
-Realiza las siguientes **consultas** sobr**A.** A partir de la **base de datos [VIDEOCLUB“[BIBLIO.mdb](http://descargas.teformas.com/Archivos%20Teformas/VIDEOCLUB.accdb)**:
+Realiza las siguientes **consultas** sobre la **base de datos [VIDEOCLUB](http://descargas.teformas.com/Archivos%20Teformas/VIDEOCLUB.accdb)**:
 
 1.  **Actualización** del precio de películas de 1998: Reducción del 10%.
 2.  **Creación** de una tabla con las películas vistas por los clientes.
