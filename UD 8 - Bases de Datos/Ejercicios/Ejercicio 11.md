@@ -12,6 +12,7 @@ Antes de realizar cada uno de estos ejercicios estudiar la distribución de info
 5. ¿Cuál es el año de publicación más antiguo? A partir de este dato mostrad los libros más antiguos.
 (Resultado en cantidad de registros: 3-1999, 4-63, 5-“World of dBASE”)
 
+
   
 **B.** Realizar las siguientes **consultas** sobre los datos almacenados en la **base de datos “[Neptuno.mdb](http://descargas.teformas.com/Archivos%20Teformas/NEPTUNO.accdb)”**:
 
@@ -28,7 +29,11 @@ Antes de realizar cada uno de estos ejercicios estudiar la distribución de info
 
 
 
-
 **C.** Realiza las siguientes **consultas** sobre la **base de datos [VIDEOCLUB](http://descargas.teformas.com/Archivos%20Teformas/VIDEOCLUB.accdb)** proporcionada por el profesor:
 
-
+1. ¿Cuántos alquileres de 3,00€ se han realizado?
+2. ¿Cuántos dvd hay disponibles?
+3. ¿Cuántas películas hay de género drama estrenadas en el 1998?
+4. Calculad la media del precio de alquiler.
+5. Cread una consulta con los campos Ident-dvd, nombre y apellidos del cliente. Añadid un campo que muestre los días que el cliente tiene la película en su poder.
+(Resultado en cantidad de registros: 1-6, 2-38, 3-5, 4-“3,82€”)
