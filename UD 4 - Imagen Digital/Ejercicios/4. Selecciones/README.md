@@ -14,3 +14,5 @@
 
 5.  Cambiar color de la imagen de la chica (foto11) para que quede tal como se
     ve en la foto12
+
+6. Realiza el montaje que ves en la imagen "collage". Para ello dispones de las imágenes originales en las que basarte en la carpeta Collage
