@@ -1,4 +1,4 @@
-### Ejercicio 9 Excel. Objetivo: Utilizar funciones
+### Ejercicio 10 Excel. Objetivo: Utilizar funciones
 
 Mediante este ejercicio podremos practicar el uso de funciones en Excel
 
