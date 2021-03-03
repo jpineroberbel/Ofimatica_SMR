@@ -21,7 +21,7 @@ En un libro de Excel crea una hoja llamada “salarios”, en ella copia la sigu
 6.  Suma total de los salarios mayores que 1200€
 7.  Suma total de las ventas de los empleados que tienen una base que sea como mínimo de 1200€.
 8.  Suma total de las ventas de los empleados que tienen una base inferior a 1000€.
-9.  Define una función tal que si el resultado del ejercicio 8 es superior al del ejercicio 9 aparezca el texto “8 es superior”, en caso contrario que aparezca el texto “8 es inferior”
+9.  Define una función tal que si el resultado del ejercicio 7 es superior al del ejercicio 8 aparezca el texto “7 es superior”, en caso contrario que aparezca el texto “7 es inferior”
 10.  Crea un gráfico de columnas en el que aparezcan las bases y las ventas agrupadas por empleado.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMDU0ODg1ODNdfQ==
