@@ -1,14 +1,14 @@
-﻿## **Tema 8 - Bases de Datos**
+﻿## **Tema 8 - Edición de Vídeo**
 
-Introducción a After Effects
-Características de la edición de vídeo: FPS, Pixels, Resolución, etc...
-Edición con After Effects
-Estabilización y Corrección
-Realización de Intros
-Cámaras
-Transiciones
-Efectos
-Efectos Avanzados
+1. Introducción a After Effects
+2. Características de la edición de vídeo: FPS, Pixels, Resolución, etc...
+3. Edición con After Effects
+    - Estabilización y Corrección
+    - Realización de Intros
+    - Cámaras
+    - Transiciones
+    - Efectos
+4. Efectos Avanzados
 
 
 #### Recursos Interesantes
