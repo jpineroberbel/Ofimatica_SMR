@@ -14,5 +14,8 @@ La **BD “[Neptuno.mdb](http://descargas.teformas.com/Archivos%20Teformas/NEPTU
 7.  Nombre del contacto y teléfono de las compañias que sirven los productos del apartado anterior.
 8.  Listado de pedidos del cliente "Around the horn"
 9.  Listado de pedidos del cliente "Around the horn" realizados en 1998
+10.  Listado de clientes a los que hemos realizado un 15% de descuento en sus pedidos
+11.  Listado de clientes que nos han pedido Chocolate Blanco
+
 
 
