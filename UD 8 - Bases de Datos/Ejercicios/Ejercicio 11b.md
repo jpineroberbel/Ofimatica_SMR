@@ -10,6 +10,9 @@ A partir de la **base de datos “[BIBLIO.mdb](http://descargas.teformas.com/Arc
 3. Haz una consulta que muestre cuántos autores hay por año de nacimiento.
 4. Mejora la consulta anterior para que no se muestren aquellos para los que no conocemos ese dato.
 5. Muestra el número de libros publicados por cada autor
+6. Muestra cúantos libros en su título tienen la palabra Pascal
+7. Mejora el apartado anterior para pasar la palabra como parámetro
+
 
  
  
